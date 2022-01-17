@@ -1,0 +1,3463 @@
+[
+  {
+    "id": "1287430",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T07:00:00",
+    "title": "Dubfire (Extended set) + Markantonio & Roberto Capuano",
+    "venueId": "141756",
+    "artistIds": [
+      "1010",
+      "5560",
+      "8051",
+      "12131"
+    ],
+    "promoterIds": [
+      "75108"
+    ]
+  },
+  {
+    "id": "1280558",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T06:00:00",
+    "title": "1985 Music - London",
+    "venueId": "100941",
+    "artistIds": [
+      "6543",
+      "8973",
+      "26012",
+      "35084",
+      "62089",
+      "62332",
+      "79366"
+    ],
+    "promoterIds": [
+      "84398"
+    ]
+  },
+  {
+    "id": "1293272",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T21:30:00",
+    "endTime": "2019-09-28T04:00:00",
+    "title": "O'Flynn - Aletheia Album Tour",
+    "venueId": "106730",
+    "artistIds": [
+      "60671"
+    ],
+    "promoterIds": [
+      "55110"
+    ]
+  },
+  {
+    "id": "1293589",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T04:00:00",
+    "title": "Naturalia presents: Gerd Janson - All Night Long",
+    "venueId": "4567",
+    "artistIds": [
+      "3760"
+    ],
+    "promoterIds": [
+      "46910",
+      "19251"
+    ]
+  },
+  {
+    "id": "1306343",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T23:00:00",
+    "endTime": "2019-09-28T06:00:00",
+    "title": "Fridays at EGG: Yousef, Dennis Cruz & Jansons",
+    "venueId": "874",
+    "artistIds": [
+      "83",
+      "42653",
+      "60474"
+    ],
+    "promoterIds": [
+      "2163",
+      "36225"
+    ]
+  },
+  {
+    "id": "1302118",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T21:30:00",
+    "endTime": "2019-09-28T04:00:00",
+    "title": "Delta Heavy Curates: René Lavice, Teddy Killer, Gydra & Delta Heavy",
+    "venueId": "33592",
+    "artistIds": [
+      "62125"
+    ],
+    "promoterIds": [
+      "22545",
+      "15408"
+    ]
+  },
+  {
+    "id": "1311104",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T19:00:00",
+    "endTime": "2019-09-28T00:00:00",
+    "title": "Worldwide FM 3RD Birthday Party",
+    "venueId": "150325",
+    "artistIds": [
+      "357"
+    ],
+    "promoterIds": [
+      "82677",
+      "87581"
+    ]
+  },
+  {
+    "id": "1290997",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T06:00:00",
+    "title": "The Pickle Factory x Freerotation: Steevio & Suzybee, Duckett, Sam Watson, Tom Ellis, Leif",
+    "venueId": "95767",
+    "artistIds": [
+      "4156",
+      "4173",
+      "5434",
+      "46263",
+      "53201",
+      "82751"
+    ],
+    "promoterIds": [
+      "7012",
+      "29213"
+    ]
+  },
+  {
+    "id": "1298214",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T06:00:00",
+    "title": "Bad Actors #01; Rezzett, Kassem Mosse & Hieroglyphic Being",
+    "venueId": "2587",
+    "artistIds": [
+      "7176",
+      "7309",
+      "60985"
+    ],
+    "promoterIds": [
+      "91418",
+      "91769"
+    ]
+  },
+  {
+    "id": "1297512",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T23:00:00",
+    "endTime": "2019-09-28T05:00:00",
+    "title": "SWITCH // ft. Ikonika, Scratcha DVA w/ Lady Lykez",
+    "venueId": "21896",
+    "artistIds": [
+      "10034",
+      "21613",
+      "68103",
+      "81577",
+      "81961",
+      "88117",
+      "90132",
+      "91954"
+    ],
+    "promoterIds": [
+      "42835"
+    ]
+  },
+  {
+    "id": "1284774",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:30:00",
+    "endTime": "2019-09-28T03:00:00",
+    "title": "Baltra (Live)",
+    "venueId": "1502",
+    "artistIds": [
+      "60978",
+      "81640"
+    ],
+    "promoterIds": [
+      "60131"
+    ]
+  },
+  {
+    "id": "1293140",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T23:00:00",
+    "endTime": "2019-09-28T06:00:00",
+    "title": "FABRICLIVE: Drumsound & Bassline Smith, Original Sin, Crissy Criss & More",
+    "venueId": "237",
+    "artistIds": [
+      "12235",
+      "27024",
+      "27025",
+      "37267",
+      "61623",
+      "62175",
+      "62361",
+      "62412",
+      "88700"
+    ],
+    "promoterIds": [
+      "68697",
+      "967",
+      "28605"
+    ]
+  },
+  {
+    "id": "1299727",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T21:00:00",
+    "endTime": "2019-09-28T02:00:00",
+    "title": "Party at The Mansion // DJ Fast + Ben Hauke Returns, + Altar, Jonny Drop, + Special Guest TBA",
+    "venueId": "131787",
+    "artistIds": [
+      "69927"
+    ],
+    "promoterIds": [
+      "81727"
+    ]
+  },
+  {
+    "id": "1282907",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T05:00:00",
+    "title": "Big Dyke Energy • Michelle Manetti, Club Fitness + Angel D'lite",
+    "venueId": "156290",
+    "artistIds": [
+      "39175",
+      "76092"
+    ],
+    "promoterIds": [
+      "88604"
+    ]
+  },
+  {
+    "id": "1304735",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T05:00:00",
+    "title": "Jungle Cakes: Ed Solo, Deekline, Benny Page",
+    "venueId": "1557",
+    "artistIds": [
+      "489",
+      "12609",
+      "79350",
+      "79398"
+    ],
+    "promoterIds": [
+      "83061",
+      "11204"
+    ]
+  },
+  {
+    "id": "1295380",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T04:00:00",
+    "title": "MATERIALS x Panel: Simo Cell, K-Lone + Congi",
+    "venueId": "133599",
+    "artistIds": [
+      "57639",
+      "73793",
+      "88916"
+    ],
+    "promoterIds": [
+      "79242"
+    ]
+  },
+  {
+    "id": "1301861",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T21:30:00",
+    "endTime": "2019-09-28T03:00:00",
+    "title": "Stooki Sound: Final London Show",
+    "venueId": "123199",
+    "artistIds": [
+      "58983"
+    ],
+    "promoterIds": [
+      "64376"
+    ]
+  },
+  {
+    "id": "1307565",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T04:00:00",
+    "title": "Labyrinth x Pala Sounds",
+    "venueId": "86422",
+    "artistIds": [
+      "76868"
+    ],
+    "promoterIds": [
+      "68477",
+      "67292"
+    ]
+  },
+  {
+    "id": "1305198",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T18:00:00",
+    "endTime": "2019-09-28T03:00:00",
+    "title": "Bondax [Extended Set]",
+    "venueId": "155586",
+    "artistIds": [
+      "37558"
+    ],
+    "promoterIds": [
+      "83224"
+    ]
+  },
+  {
+    "id": "1299624",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T21:00:00",
+    "endTime": "2019-09-28T03:00:00",
+    "title": "Tribelife - La Donna Immersive Warehouse",
+    "venueId": "164033",
+    "artistIds": [
+      "45580",
+      "64714",
+      "65293"
+    ],
+    "promoterIds": [
+      "73310"
+    ]
+  },
+  {
+    "id": "1304813",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T20:00:00",
+    "endTime": "2019-09-29T02:00:00",
+    "title": "Hearlucinate",
+    "venueId": "122921",
+    "artistIds": [
+      "21280",
+      "27262",
+      "60350"
+    ],
+    "promoterIds": [
+      "85872"
+    ]
+  },
+  {
+    "id": "1312658",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T04:00:00",
+    "title": "Good Block - Trepanado - Selvagem",
+    "venueId": "144451",
+    "artistIds": [
+      "48360",
+      "59918",
+      "88243",
+      "91257"
+    ],
+    "promoterIds": [
+      "26006"
+    ]
+  },
+  {
+    "id": "1293635",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T23:00:00",
+    "endTime": "2019-09-28T05:00:00",
+    "title": "Crossbreed with Mr. Ties & Kiwi",
+    "venueId": "150005",
+    "artistIds": [
+      "4239",
+      "23561"
+    ],
+    "promoterIds": [
+      "7070",
+      "91170"
+    ]
+  },
+  {
+    "id": "1301434",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T17:00:00",
+    "endTime": "2019-09-28T01:00:00",
+    "title": "Paradise Alley presents - Summer Closing Party with Norman Jay MBE",
+    "venueId": "734",
+    "artistIds": [
+      "67"
+    ],
+    "promoterIds": [
+      "14560"
+    ]
+  },
+  {
+    "id": "1298664",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T20:00:00",
+    "endTime": "2019-09-28T05:00:00",
+    "title": "Shoreditch Disco Special with Ashley Beedle",
+    "venueId": "124651",
+    "artistIds": [
+      "4083",
+      "69428",
+      "71814",
+      "78602",
+      "78629"
+    ],
+    "promoterIds": [
+      "68803"
+    ]
+  },
+  {
+    "id": "1273649",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T04:00:00",
+    "title": "Rubicon",
+    "venueId": "30015",
+    "artistIds": [
+      "82532",
+      "85499",
+      "87935",
+      "87973",
+      "91023"
+    ],
+    "promoterIds": [
+      "87478"
+    ]
+  },
+  {
+    "id": "1309974",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T03:45:00",
+    "title": "Unpopular Demand: Priori and Ex-Terrestrial",
+    "venueId": "61205",
+    "artistIds": [
+      "75391"
+    ],
+    "promoterIds": [
+      "72013"
+    ]
+  },
+  {
+    "id": "1267543",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T23:00:00",
+    "endTime": "2019-09-28T05:00:00",
+    "title": "Final UNITI Rave: Crystallmess",
+    "venueId": "120249",
+    "artistIds": [
+      "56689",
+      "75272",
+      "81320",
+      "92311"
+    ],
+    "promoterIds": [
+      "69797"
+    ]
+  },
+  {
+    "id": "1306807",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T23:00:00",
+    "endTime": "2019-09-28T06:00:00",
+    "title": "Bass Face // Opening Session – (DNB / Bassline / Jungle / UKG)",
+    "venueId": "1103",
+    "artistIds": [],
+    "promoterIds": [
+      "77580"
+    ]
+  },
+  {
+    "id": "1308530",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T20:00:00",
+    "endTime": "2019-09-28T01:00:00",
+    "title": "Number 90 presents Stranger Than Paradise",
+    "venueId": "72207",
+    "artistIds": [],
+    "promoterIds": [
+      "59966"
+    ]
+  },
+  {
+    "id": "1311661",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T21:00:00",
+    "endTime": "2019-09-28T03:00:00",
+    "title": "Adventures In Paradise with Manuel Darquart",
+    "venueId": "164341",
+    "artistIds": [
+      "84754"
+    ],
+    "promoterIds": [
+      "92250"
+    ]
+  },
+  {
+    "id": "1291993",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T06:00:00",
+    "title": "University of Dub presents Roots Dance Conscious",
+    "venueId": "3321",
+    "artistIds": [
+      "28072"
+    ],
+    "promoterIds": [
+      "45297"
+    ]
+  },
+  {
+    "id": "1317043",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T03:00:00",
+    "title": "Gal Pals: London",
+    "venueId": "125514",
+    "artistIds": [],
+    "promoterIds": [
+      "81832"
+    ]
+  },
+  {
+    "id": "1319179",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T05:00:00",
+    "title": "F*ck Me It's Freshers",
+    "venueId": "74592",
+    "artistIds": [],
+    "promoterIds": [
+      "88452"
+    ]
+  },
+  {
+    "id": "1316127",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T23:00:00",
+    "endTime": "2019-09-28T05:00:00",
+    "title": "Pounding Dance Music",
+    "venueId": "95943",
+    "artistIds": [
+      "90179"
+    ],
+    "promoterIds": [
+      "89351"
+    ]
+  },
+  {
+    "id": "1315174",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T20:00:00",
+    "endTime": "2019-09-28T03:00:00",
+    "title": "Tomo (Owig) Bday Bash (Only Way Is Garage)",
+    "venueId": "124855",
+    "artistIds": [],
+    "promoterIds": [
+      "92448"
+    ]
+  },
+  {
+    "id": "1317896",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T21:00:00",
+    "endTime": "2019-09-28T01:30:00",
+    "title": "Polytope with Chlorys, Kristopher Hall, Amerza",
+    "venueId": "147611",
+    "artistIds": [
+      "59631",
+      "77644"
+    ],
+    "promoterIds": [
+      "92625"
+    ]
+  },
+  {
+    "id": "1318686",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T20:00:00",
+    "endTime": "2019-09-27T23:59:00",
+    "title": "Soul Transistor - Live in the Lounge",
+    "venueId": "172847",
+    "artistIds": [],
+    "promoterIds": [
+      "62250",
+      "91610"
+    ]
+  },
+  {
+    "id": "1311696",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T21:00:00",
+    "endTime": "2019-09-28T03:00:00",
+    "title": "RnB Bowl - London's No.1 RnB Party",
+    "venueId": "5357",
+    "artistIds": [],
+    "promoterIds": [
+      "85849"
+    ]
+  },
+  {
+    "id": "1312895",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T02:00:00",
+    "title": "Dreamhouse: NW5 - A Post-Punk / Synth Pop Club",
+    "venueId": "92397",
+    "artistIds": [],
+    "promoterIds": [
+      "52844"
+    ]
+  },
+  {
+    "id": "1314865",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T19:00:00",
+    "endTime": "2019-09-28T01:30:00",
+    "title": "Free END OF Month Party",
+    "venueId": "174273",
+    "artistIds": [],
+    "promoterIds": [
+      "63806"
+    ]
+  },
+  {
+    "id": "1318741",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T03:00:00",
+    "title": "*Birdnoise* with AAA, Chennessy Special Guests",
+    "venueId": "102872",
+    "artistIds": [
+      "71343"
+    ],
+    "promoterIds": [
+      "70349"
+    ]
+  },
+  {
+    "id": "1287117",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T21:00:00",
+    "endTime": "2019-09-28T02:00:00",
+    "title": "Stomping Ground presents Shortee Blitz & Mr Thing",
+    "venueId": "138202",
+    "artistIds": [
+      "184",
+      "57479",
+      "65003"
+    ],
+    "promoterIds": [
+      "90794"
+    ]
+  },
+  {
+    "id": "1220695",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T04:00:00",
+    "title": "The Nextmen Residency pt.3",
+    "venueId": "5355",
+    "artistIds": [
+      "7423"
+    ],
+    "promoterIds": [
+      "31415",
+      "5610"
+    ]
+  },
+  {
+    "id": "1310287",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T21:00:00",
+    "endTime": "2019-09-28T06:00:00",
+    "title": "Interlude (Secret Warehouse Rave)",
+    "venueId": "1777",
+    "artistIds": [
+      "45677",
+      "59708"
+    ],
+    "promoterIds": []
+  },
+  {
+    "id": "1293389",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:30:00",
+    "endTime": "2019-09-28T06:00:00",
+    "title": "The Gallery Invites: Solarstone Pres. Pure Trance",
+    "venueId": "725",
+    "artistIds": [
+      "15039",
+      "41860",
+      "82630"
+    ],
+    "promoterIds": []
+  },
+  {
+    "id": "1313265",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T23:00:00",
+    "endTime": "2019-09-28T07:00:00",
+    "title": "Big Fish",
+    "venueId": "674",
+    "artistIds": [
+      "3106"
+    ],
+    "promoterIds": [
+      "16910"
+    ]
+  },
+  {
+    "id": "1305067",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T03:00:00",
+    "title": "Hotline ☏ Wax Wings, Kasey Riot, Twang, Leigh Taurean",
+    "venueId": "83829",
+    "artistIds": [
+      "53351",
+      "54362",
+      "55214",
+      "58931"
+    ],
+    "promoterIds": [
+      "61688"
+    ]
+  },
+  {
+    "id": "1296657",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T23:00:00",
+    "endTime": "2019-09-28T04:00:00",
+    "title": "LSA presents Son of Abe",
+    "venueId": "5355",
+    "artistIds": [],
+    "promoterIds": [
+      "63947"
+    ]
+  },
+  {
+    "id": "1301844",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:30:00",
+    "endTime": "2019-09-28T03:00:00",
+    "title": "The Freshers Gatsby Ball",
+    "venueId": "10510",
+    "artistIds": [],
+    "promoterIds": [
+      "56642"
+    ]
+  },
+  {
+    "id": "1302350",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T03:00:00",
+    "title": "Fridays at Tiger Tiger Freshers Special",
+    "venueId": "88455",
+    "artistIds": [],
+    "promoterIds": [
+      "56642"
+    ]
+  },
+  {
+    "id": "1303260",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T03:00:00",
+    "title": "Elements DNB",
+    "venueId": "14114",
+    "artistIds": [],
+    "promoterIds": []
+  },
+  {
+    "id": "1312191",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T04:00:00",
+    "title": "Supa Dupa Fly x Back to the Old Skool x Brixton",
+    "venueId": "65362",
+    "artistIds": [
+      "65003"
+    ],
+    "promoterIds": [
+      "56902"
+    ]
+  },
+  {
+    "id": "1315072",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T03:00:00",
+    "title": "Golden Lobster #2 ~ Ned Stax & Portara b2b all Night",
+    "venueId": "128771",
+    "artistIds": [],
+    "promoterIds": []
+  },
+  {
+    "id": "1275449",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T20:00:00",
+    "endTime": "2019-09-27T23:59:00",
+    "title": "Dark Alchemy presents: Dark Alchemy IV Preview Event",
+    "venueId": "102432",
+    "artistIds": [],
+    "promoterIds": []
+  },
+  {
+    "id": "1291962",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T03:00:00",
+    "title": "Fridays at PI // £2.50 Drinks",
+    "venueId": "47278",
+    "artistIds": [],
+    "promoterIds": [
+      "56642"
+    ]
+  },
+  {
+    "id": "1292010",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T03:00:00",
+    "title": "Fridays at The Loop // £3 Drinks",
+    "venueId": "108938",
+    "artistIds": [],
+    "promoterIds": [
+      "56642"
+    ]
+  },
+  {
+    "id": "1305008",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T20:00:00",
+    "endTime": "2019-09-28T03:00:00",
+    "title": "The Big Freshers Pub Crawl 2019",
+    "venueId": "30669",
+    "artistIds": [],
+    "promoterIds": [
+      "56642"
+    ]
+  },
+  {
+    "id": "1305230",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T21:30:00",
+    "endTime": "2019-09-28T03:30:00",
+    "title": "Players Ball",
+    "venueId": "104554",
+    "artistIds": [],
+    "promoterIds": [
+      "13355",
+      "53670"
+    ]
+  },
+  {
+    "id": "1305233",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T21:30:00",
+    "endTime": "2019-09-28T02:00:00",
+    "title": "Afrobeat Takeover",
+    "venueId": "46639",
+    "artistIds": [],
+    "promoterIds": [
+      "41169"
+    ]
+  },
+  {
+    "id": "1310693",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T19:00:00",
+    "endTime": "2019-09-28T23:30:00",
+    "title": "Slip Digby - Underground Sound presents",
+    "venueId": "135119",
+    "artistIds": [
+      "37894"
+    ],
+    "promoterIds": [
+      "84443"
+    ]
+  },
+  {
+    "id": "1311725",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T20:00:00",
+    "endTime": "2019-09-28T01:30:00",
+    "title": "Jazz Lates: Luna Cohen",
+    "venueId": "143620",
+    "artistIds": [],
+    "promoterIds": [
+      "84085"
+    ]
+  },
+  {
+    "id": "1311811",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T19:00:00",
+    "endTime": "2019-09-27T23:30:00",
+    "title": "Juju's presents: DJ Dragnar",
+    "venueId": "127364",
+    "artistIds": [],
+    "promoterIds": [
+      "84190"
+    ]
+  },
+  {
+    "id": "1312203",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T04:00:00",
+    "title": "SZ & Fcuo: Dance For Amazon Watch",
+    "venueId": "92022",
+    "artistIds": [],
+    "promoterIds": [
+      "72005",
+      "86984"
+    ]
+  },
+  {
+    "id": "1313864",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T03:00:00",
+    "title": "Blackout LDN - London's Craziest Freshers Party",
+    "venueId": "67011",
+    "artistIds": [
+      "74067"
+    ],
+    "promoterIds": [
+      "76917"
+    ]
+  },
+  {
+    "id": "1317021",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T03:00:00",
+    "title": "Bashment Whine - Shoreditch Carnival Party",
+    "venueId": "133105",
+    "artistIds": [
+      "17192"
+    ],
+    "promoterIds": [
+      "88871"
+    ]
+  },
+  {
+    "id": "1317595",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T20:00:00",
+    "endTime": "2019-09-28T00:15:00",
+    "title": "Musica Dispersa, Women in Experimental NRS",
+    "venueId": "108265",
+    "artistIds": [
+      "73594",
+      "90173"
+    ],
+    "promoterIds": [
+      "55824",
+      "48347"
+    ]
+  },
+  {
+    "id": "1320121",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T21:00:00",
+    "endTime": "2019-09-28T04:00:00",
+    "title": "DJ Benetti & Feel The Drive",
+    "venueId": "114463",
+    "artistIds": [],
+    "promoterIds": [
+      "78223"
+    ]
+  },
+  {
+    "id": "1320980",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T21:00:00",
+    "endTime": "2019-09-28T01:00:00",
+    "title": "Sippin' T / Nadine Artois / Tayylor Made / Basmati",
+    "venueId": "150325",
+    "artistIds": [
+      "80525"
+    ],
+    "promoterIds": []
+  },
+  {
+    "id": "1322388",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T03:00:00",
+    "title": "Afrobash - #1 Afrobeats & Bashment Party",
+    "venueId": "62885",
+    "artistIds": [],
+    "promoterIds": [
+      "76917"
+    ]
+  },
+  {
+    "id": "1322389",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T03:00:00",
+    "title": "Turn Up Shoreditch - Hip-Hop, Bashment",
+    "venueId": "62885",
+    "artistIds": [],
+    "promoterIds": [
+      "76917"
+    ]
+  },
+  {
+    "id": "1322390",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T03:00:00",
+    "title": "Drip LDN - London's Biggest VIP Hip Hop Party",
+    "venueId": "43309",
+    "artistIds": [],
+    "promoterIds": [
+      "76917"
+    ]
+  },
+  {
+    "id": "1322392",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T03:00:00",
+    "title": "Hip-Hop vs Bashment VIP Party",
+    "venueId": "43309",
+    "artistIds": [],
+    "promoterIds": [
+      "76917"
+    ]
+  },
+  {
+    "id": "1312760",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T21:00:00",
+    "endTime": "2019-09-28T01:00:00",
+    "title": "Stage 6 at The Red Lion",
+    "venueId": "174061",
+    "artistIds": [],
+    "promoterIds": []
+  },
+  {
+    "id": "1315210",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T22:00:00",
+    "endTime": "2019-09-28T03:30:00",
+    "title": "Key ",
+    "venueId": "41610",
+    "artistIds": [],
+    "promoterIds": []
+  },
+  {
+    "id": "1320516",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T20:00:00",
+    "endTime": "2019-09-28T02:00:00",
+    "title": "Supa Dupa Fly x Every Friday",
+    "venueId": "173144",
+    "artistIds": [
+      "35591"
+    ],
+    "promoterIds": [
+      "56902"
+    ]
+  },
+  {
+    "id": "1321634",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T21:00:00",
+    "endTime": "2019-09-28T03:00:00",
+    "title": "The Notting Hill House Party",
+    "venueId": "8295",
+    "artistIds": [],
+    "promoterIds": []
+  },
+  {
+    "id": "1286294",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T13:00:00",
+    "endTime": "2019-09-28T22:00:00",
+    "title": "LoveJuice Street Carnival",
+    "venueId": "141756",
+    "artistIds": [
+      "32831",
+      "56159",
+      "58911",
+      "63812",
+      "69668",
+      "70696",
+      "75406",
+      "82532",
+      "91023"
+    ],
+    "promoterIds": [
+      "63836"
+    ]
+  },
+  {
+    "id": "1289881",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T23:00:00",
+    "endTime": "2019-09-29T06:00:00",
+    "title": "Boris Brejcha in Concert - Album Release Tour",
+    "venueId": "52120",
+    "artistIds": [
+      "6268",
+      "87543",
+      "87642",
+      "90410"
+    ],
+    "promoterIds": [
+      "36225"
+    ]
+  },
+  {
+    "id": "1286896",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T06:00:00",
+    "title": "Hungry Music London: N'TO, Worakls, Joachim Pastor",
+    "venueId": "100941",
+    "artistIds": [
+      "7290",
+      "13248",
+      "40304",
+      "55843",
+      "84007"
+    ],
+    "promoterIds": [
+      "82413"
+    ]
+  },
+  {
+    "id": "1302443",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T12:00:00",
+    "endTime": "2019-09-28T23:00:00",
+    "title": "PW:19 Printworks Opening with Amelie Lens and More",
+    "venueId": "127337",
+    "artistIds": [
+      "4595",
+      "13609",
+      "39861",
+      "50321",
+      "54184",
+      "55834",
+      "58320",
+      "61166",
+      "68669",
+      "75996",
+      "81024",
+      "83445"
+    ],
+    "promoterIds": [
+      "66779"
+    ]
+  },
+  {
+    "id": "1301328",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T14:00:00",
+    "endTime": "2019-09-28T23:00:00",
+    "title": "Flotation Day Party: Tenishia, Robert Nickson, Paul Webster ",
+    "venueId": "874",
+    "artistIds": [
+      "389",
+      "19958",
+      "54127"
+    ],
+    "promoterIds": [
+      "2163"
+    ]
+  },
+  {
+    "id": "1267278",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T14:00:00",
+    "endTime": "2019-09-29T04:00:00",
+    "title": "Origins, Day & Night: Skee Mask, Zenker Brothers, Tasha, Coop Audio",
+    "venueId": "114463",
+    "artistIds": [
+      "30893",
+      "31058",
+      "62473"
+    ],
+    "promoterIds": [
+      "35366",
+      "39735"
+    ]
+  },
+  {
+    "id": "1286842",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T23:00:00",
+    "endTime": "2019-09-29T06:00:00",
+    "title": "Trouble Vision & Superstition present Strangelove with Job Jobse - All Night Long",
+    "venueId": "4567",
+    "artistIds": [
+      "26085"
+    ],
+    "promoterIds": [
+      "9111",
+      "46910"
+    ]
+  },
+  {
+    "id": "1286252",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T06:00:00",
+    "title": "The Disco Express: Tiger & Woods, Fouk, COEO",
+    "venueId": "141756",
+    "artistIds": [
+      "19806",
+      "35708",
+      "47578",
+      "69989"
+    ],
+    "promoterIds": [
+      "89871",
+      "75108"
+    ]
+  },
+  {
+    "id": "1305955",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T14:00:00",
+    "endTime": "2019-09-29T06:00:00",
+    "title": "Studio 338 Lost Island Closing Party with Kerri Chandler",
+    "venueId": "74592",
+    "artistIds": [
+      "741",
+      "980",
+      "6334",
+      "11860",
+      "75934",
+      "87713"
+    ],
+    "promoterIds": [
+      "45574"
+    ]
+  },
+  {
+    "id": "1290372",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T23:00:00",
+    "endTime": "2019-09-29T06:00:00",
+    "title": "krankbrother presents: Marco Shuttle, Peter Van Hoesen, Varg (Live), Vril (Live)",
+    "venueId": "141756",
+    "artistIds": [
+      "3594",
+      "14293",
+      "42319",
+      "48012",
+      "80832"
+    ],
+    "promoterIds": [
+      "7412"
+    ]
+  },
+  {
+    "id": "1258192",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T23:00:00",
+    "endTime": "2019-09-29T06:00:00",
+    "title": "Secretsundaze with Carista, Roi Perez & Danielle",
+    "venueId": "155399",
+    "artistIds": [
+      "48101",
+      "61886",
+      "73940",
+      "81806"
+    ],
+    "promoterIds": [
+      "22"
+    ]
+  },
+  {
+    "id": "1301887",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T23:00:00",
+    "endTime": "2019-09-29T08:00:00",
+    "title": "Fckng Serious Showcase Afterparty - Ann Clue, Deniz Bul",
+    "venueId": "874",
+    "artistIds": [
+      "22106",
+      "47964",
+      "57036",
+      "90771"
+    ],
+    "promoterIds": [
+      "2163",
+      "36225"
+    ]
+  },
+  {
+    "id": "1290820",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T18:00:00",
+    "endTime": "2019-09-29T22:00:00",
+    "title": "20 Years of Finger Lickin Boat Party",
+    "venueId": "132696",
+    "artistIds": [
+      "81",
+      "86",
+      "237",
+      "238",
+      "337",
+      "23031"
+    ],
+    "promoterIds": [
+      "19434",
+      "42414"
+    ]
+  },
+  {
+    "id": "1280575",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T23:00:00",
+    "endTime": "2019-09-29T06:00:00",
+    "title": "fabric: 25 Years of Wiggle",
+    "venueId": "237",
+    "artistIds": [
+      "144",
+      "232",
+      "258",
+      "535",
+      "44838",
+      "48742"
+    ],
+    "promoterIds": [
+      "73867",
+      "967"
+    ]
+  },
+  {
+    "id": "1310644",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T21:30:00",
+    "endTime": "2019-09-29T04:00:00",
+    "title": "Mantra x Tommy Gold Curates: Amy Becker, Places + Faces +Sounds, New Found Form, P-Rallel",
+    "venueId": "106730",
+    "artistIds": [
+      "54706",
+      "85512",
+      "92313"
+    ],
+    "promoterIds": [
+      "55110"
+    ]
+  },
+  {
+    "id": "1307696",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T05:00:00",
+    "title": "The South London Soul Train with Don't Problem (Live) - More",
+    "venueId": "21896",
+    "artistIds": [
+      "45112",
+      "69495",
+      "83749"
+    ],
+    "promoterIds": [
+      "62250",
+      "58279"
+    ]
+  },
+  {
+    "id": "1301271",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T23:30:00",
+    "endTime": "2019-09-29T07:30:00",
+    "title": "KAOS presents Unhuman",
+    "venueId": "937",
+    "artistIds": [
+      "51232",
+      "51446",
+      "75389",
+      "76614"
+    ],
+    "promoterIds": [
+      "46452"
+    ]
+  },
+  {
+    "id": "1292784",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T20:00:00",
+    "endTime": "2019-09-29T01:30:00",
+    "title": "The Glove x Edited: Dream Catalogue Showcase",
+    "venueId": "147611",
+    "artistIds": [
+      "61508",
+      "78766"
+    ],
+    "promoterIds": [
+      "79341",
+      "76646"
+    ]
+  },
+  {
+    "id": "1292852",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T21:00:00",
+    "endTime": "2019-09-29T14:00:00",
+    "title": "Bread and Butter & Bienaimer Music with Viceversa,Yapacc Live,Ittetsu Plus Residents",
+    "venueId": "147502",
+    "artistIds": [
+      "9656",
+      "14916",
+      "23839",
+      "33062",
+      "38178",
+      "55663",
+      "65187",
+      "77588",
+      "78753",
+      "89105"
+    ],
+    "promoterIds": [
+      "8039"
+    ]
+  },
+  {
+    "id": "1281564",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:30:00",
+    "endTime": "2019-09-29T03:00:00",
+    "title": "Soul City: Disco, House & Soul Every Saturday",
+    "venueId": "1502",
+    "artistIds": [
+      "54623"
+    ],
+    "promoterIds": [
+      "68655",
+      "60131"
+    ]
+  },
+  {
+    "id": "1293435",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T23:00:00",
+    "endTime": "2019-09-29T06:00:00",
+    "title": "More Claps x Unbound Events with Breaka, Jossy Mitsu, Happa, Molinaro and o.Utlier",
+    "venueId": "2587",
+    "artistIds": [
+      "26902",
+      "34727",
+      "43267",
+      "76441",
+      "85320"
+    ],
+    "promoterIds": [
+      "71793",
+      "91041"
+    ]
+  },
+  {
+    "id": "1295987",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T04:00:00",
+    "title": "Listeners Choice - DJ Listeners Birthday Celebration",
+    "venueId": "30015",
+    "artistIds": [
+      "41941",
+      "56619",
+      "58260",
+      "63770",
+      "63774",
+      "91059"
+    ],
+    "promoterIds": [
+      "39931"
+    ]
+  },
+  {
+    "id": "1243422",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T17:00:00",
+    "endTime": "2019-09-29T01:30:00",
+    "title": "ASSEMBLY x ELEMENT: End of Summer Closing Party",
+    "venueId": "734",
+    "artistIds": [
+      "12964",
+      "61459",
+      "70825",
+      "81133",
+      "83011",
+      "83569",
+      "84352"
+    ],
+    "promoterIds": [
+      "69889",
+      "87481"
+    ]
+  },
+  {
+    "id": "1306164",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T14:00:00",
+    "endTime": "2019-09-29T00:00:00",
+    "title": "MODE 2019: 10hrs of Ambient (GAS, Laurel Halo, Beatrice Dillon)",
+    "venueId": "147502",
+    "artistIds": [
+      "1332",
+      "27548",
+      "60583",
+      "65081",
+      "69745",
+      "82896",
+      "92020"
+    ],
+    "promoterIds": [
+      "92060",
+      "63944"
+    ]
+  },
+  {
+    "id": "1306185",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T15:00:00",
+    "endTime": "2019-09-28T23:00:00",
+    "title": "Pangaea Disco X Swanstreet: Summer Closing Party [Secret Location]",
+    "venueId": "1777",
+    "artistIds": [
+      "83233"
+    ],
+    "promoterIds": [
+      "66978",
+      "75508"
+    ]
+  },
+  {
+    "id": "1305075",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T05:00:00",
+    "title": "The Model - A Made Up Sound, Stenny, Kerrie (Live)",
+    "venueId": "150005",
+    "artistIds": [
+      "3349",
+      "17434",
+      "41371",
+      "59319",
+      "69097",
+      "78585"
+    ],
+    "promoterIds": [
+      "79502",
+      "82571"
+    ]
+  },
+  {
+    "id": "1241511",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T19:00:00",
+    "endTime": "2019-09-29T04:00:00",
+    "title": "Summer of Love x Heatwave: Final Day & Night Summer Terrace Party",
+    "venueId": "1557",
+    "artistIds": [
+      "44593",
+      "59523",
+      "73448"
+    ],
+    "promoterIds": [
+      "83061",
+      "11204"
+    ]
+  },
+  {
+    "id": "1301924",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T16:00:00",
+    "endTime": "2019-09-29T03:00:00",
+    "title": "Girls on Top - UKG Summer Rooftop Closing Party",
+    "venueId": "65362",
+    "artistIds": [
+      "64934",
+      "83294"
+    ],
+    "promoterIds": [
+      "31128"
+    ]
+  },
+  {
+    "id": "1311752",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T04:00:00",
+    "title": "Rhythm Section Meets Scenic Route with Desert Sound Colony, Bradley Zero & More",
+    "venueId": "133599",
+    "artistIds": [
+      "33212",
+      "52923",
+      "55359",
+      "69626"
+    ],
+    "promoterIds": [
+      "76255",
+      "24439"
+    ]
+  },
+  {
+    "id": "1306800",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T15:00:00",
+    "endTime": "2019-09-29T03:00:00",
+    "title": "Night Tales Summer Closing Party: Tornado Wallace & Jamie Tiller",
+    "venueId": "155586",
+    "artistIds": [
+      "14698",
+      "57307"
+    ],
+    "promoterIds": [
+      "83224"
+    ]
+  },
+  {
+    "id": "1300242",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T06:00:00",
+    "title": "Solis Summer Closing Party: Ion Ludwig (Extended Live)",
+    "venueId": "148468",
+    "artistIds": [
+      "4709",
+      "10670",
+      "42342",
+      "63937"
+    ],
+    "promoterIds": [
+      "60076"
+    ]
+  },
+  {
+    "id": "1295737",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T06:00:00",
+    "title": "Ministry of Sound 28th Birthday: Part 1",
+    "venueId": "725",
+    "artistIds": [
+      "97",
+      "18618",
+      "32949",
+      "47727",
+      "74430",
+      "77945",
+      "77964",
+      "78508",
+      "92113",
+      "92140"
+    ],
+    "promoterIds": [
+      "448"
+    ]
+  },
+  {
+    "id": "1159953",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T23:00:00",
+    "endTime": "2019-09-29T06:00:00",
+    "title": "Regression Session Spetember Splash",
+    "venueId": "13311",
+    "artistIds": [],
+    "promoterIds": [
+      "25531"
+    ]
+  },
+  {
+    "id": "1318858",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T21:00:00",
+    "endTime": "2019-09-29T02:00:00",
+    "title": "Lovedance - A Disco Special",
+    "venueId": "150410",
+    "artistIds": [
+      "439",
+      "28940"
+    ],
+    "promoterIds": [
+      "40230"
+    ]
+  },
+  {
+    "id": "1304736",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T23:00:00",
+    "endTime": "2019-09-29T04:00:00",
+    "title": "Maple Cuts with The Maghreban, Kiara Scuro",
+    "venueId": "83829",
+    "artistIds": [
+      "50636",
+      "75996"
+    ],
+    "promoterIds": [
+      "70892"
+    ]
+  },
+  {
+    "id": "1282232",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T20:00:00",
+    "endTime": "2019-09-29T05:00:00",
+    "title": "Shoreditch Groove - House & Disco Special",
+    "venueId": "124651",
+    "artistIds": [
+      "46502",
+      "77940"
+    ],
+    "promoterIds": [
+      "68803"
+    ]
+  },
+  {
+    "id": "1298977",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T23:00:00",
+    "endTime": "2019-09-29T07:00:00",
+    "title": "Brockout with Trackman (aka Mark Archer), Jerome Hill, Warlock, P-Hocto",
+    "venueId": "156290",
+    "artistIds": [
+      "16266",
+      "33147",
+      "41722",
+      "46077"
+    ],
+    "promoterIds": [
+      "15602"
+    ]
+  },
+  {
+    "id": "1312536",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T04:00:00",
+    "title": "Late Nite Tuff Guy",
+    "venueId": "20525",
+    "artistIds": [
+      "37335"
+    ],
+    "promoterIds": [
+      "92286"
+    ]
+  },
+  {
+    "id": "1308531",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T20:00:00",
+    "endTime": "2019-09-29T01:00:00",
+    "title": "Number 90 presents Phonica Records",
+    "venueId": "72207",
+    "artistIds": [],
+    "promoterIds": [
+      "59966"
+    ]
+  },
+  {
+    "id": "1299744",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T15:00:00",
+    "endTime": "2019-09-28T23:00:00",
+    "title": "Pyrmd Music x Nodrummer - tIJN, Haydn & Dudley Strangeways",
+    "venueId": "151483",
+    "artistIds": [
+      "13562",
+      "23141",
+      "41352",
+      "84503"
+    ],
+    "promoterIds": [
+      "79196"
+    ]
+  },
+  {
+    "id": "1303878",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T21:00:00",
+    "endTime": "2019-09-29T02:00:00",
+    "title": "Grown",
+    "venueId": "173166",
+    "artistIds": [
+      "4384",
+      "67392"
+    ],
+    "promoterIds": [
+      "72721"
+    ]
+  },
+  {
+    "id": "1295844",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T21:30:00",
+    "endTime": "2019-09-29T04:00:00",
+    "title": "Pleasurehood. Every Saturday at XOYO",
+    "venueId": "33592",
+    "artistIds": [
+      "55169",
+      "85975"
+    ],
+    "promoterIds": [
+      "87002",
+      "22545",
+      "15408"
+    ]
+  },
+  {
+    "id": "1310061",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T15:00:00",
+    "endTime": "2019-09-29T00:00:00",
+    "title": "Faster presents The Drum & Bass End of Summer Rooftop Rave",
+    "venueId": "166931",
+    "artistIds": [
+      "467",
+      "61714",
+      "62439",
+      "85426"
+    ],
+    "promoterIds": [
+      "83537"
+    ]
+  },
+  {
+    "id": "1305877",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T15:00:00",
+    "endTime": "2019-09-28T22:00:00",
+    "title": "Hip hop Graffiti Jam",
+    "venueId": "167068",
+    "artistIds": [],
+    "promoterIds": [
+      "91887"
+    ]
+  },
+  {
+    "id": "1314218",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T20:00:00",
+    "endTime": "2019-09-29T03:00:00",
+    "title": "Lost In The Post - Medlar X Dele Sosimi",
+    "venueId": "169317",
+    "artistIds": [
+      "26687",
+      "66152",
+      "81640",
+      "91376"
+    ],
+    "promoterIds": [
+      "57776",
+      "86746"
+    ]
+  },
+  {
+    "id": "1304923",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T21:00:00",
+    "endTime": "2019-09-29T04:00:00",
+    "title": "Little Bugger: Justin Robertson & Grainger",
+    "venueId": "87489",
+    "artistIds": [
+      "824",
+      "54883"
+    ],
+    "promoterIds": [
+      "75792"
+    ]
+  },
+  {
+    "id": "1315303",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T20:00:00",
+    "endTime": "2019-09-29T02:00:00",
+    "title": "Free Movements Feat. Sybil, Luca, Dan Nicholls, Dave De Rose, DVKA and More..",
+    "venueId": "147746",
+    "artistIds": [
+      "7900",
+      "65904",
+      "73659",
+      "74161"
+    ],
+    "promoterIds": [
+      "81222"
+    ]
+  },
+  {
+    "id": "1308406",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T03:00:00",
+    "title": "The Ultimate Hip-Hop Experience",
+    "venueId": "67011",
+    "artistIds": [],
+    "promoterIds": [
+      "399"
+    ]
+  },
+  {
+    "id": "1314024",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T04:00:00",
+    "title": "Jas Shaw (Simian Mobile Disco) + Annabel Fraser (NTS)",
+    "venueId": "144451",
+    "artistIds": [
+      "862",
+      "45185"
+    ],
+    "promoterIds": [
+      "520"
+    ]
+  },
+  {
+    "id": "1311190",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T03:00:00",
+    "title": "Real LOVE  - A Night of RnB & 80's Soul",
+    "venueId": "102872",
+    "artistIds": [
+      "51739",
+      "66961"
+    ],
+    "promoterIds": [
+      "399"
+    ]
+  },
+  {
+    "id": "1313313",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T20:00:00",
+    "endTime": "2019-09-29T03:00:00",
+    "title": "Hedkandi Launch",
+    "venueId": "172912",
+    "artistIds": [
+      "16905",
+      "47780"
+    ],
+    "promoterIds": [
+      "91643"
+    ]
+  },
+  {
+    "id": "1287490",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T14:00:00",
+    "endTime": "2019-09-29T21:00:00",
+    "title": "Camden Oktoberfest 2019",
+    "venueId": "936",
+    "artistIds": [],
+    "promoterIds": [
+      "82919"
+    ]
+  },
+  {
+    "id": "1297271",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T20:00:00",
+    "endTime": "2019-09-29T02:00:00",
+    "title": "Just Juice September Shutdown with Elijah & Skilliam (Butterz)",
+    "venueId": "4552",
+    "artistIds": [
+      "11594",
+      "58187"
+    ],
+    "promoterIds": [
+      "10446"
+    ]
+  },
+  {
+    "id": "1305308",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T18:00:00",
+    "endTime": "2019-09-29T04:00:00",
+    "title": "1 Year of Pineapple Pizza: Strut Records DJ (20 Years of Strut Records Set) Seeds of Creation P",
+    "venueId": "94507",
+    "artistIds": [],
+    "promoterIds": [
+      "82581"
+    ]
+  },
+  {
+    "id": "1309253",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T15:00:00",
+    "endTime": "2019-09-29T23:00:00",
+    "title": "Faded - F**k it one More Day Party",
+    "venueId": "148994",
+    "artistIds": [],
+    "promoterIds": [
+      "41586"
+    ]
+  },
+  {
+    "id": "1311847",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T01:00:00",
+    "endTime": "2019-09-28T11:00:00",
+    "title": "Wrong! Friday Night Afterhours",
+    "venueId": "170808",
+    "artistIds": [
+      "74222",
+      "87543"
+    ],
+    "promoterIds": [
+      "30213"
+    ]
+  },
+  {
+    "id": "1312531",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T04:00:00",
+    "title": "Metropolis House Party",
+    "venueId": "20525",
+    "artistIds": [],
+    "promoterIds": [
+      "92286"
+    ]
+  },
+  {
+    "id": "1312768",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T20:00:00",
+    "endTime": "2019-09-29T00:00:00",
+    "title": "London Boat Party with Free After Party",
+    "venueId": "143534",
+    "artistIds": [],
+    "promoterIds": [
+      "82204",
+      "90193"
+    ]
+  },
+  {
+    "id": "1313298",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T03:30:00",
+    "title": "[CANCELLED] Sc&p: Mr TC + Marcus Harris + Mikel",
+    "venueId": "61205",
+    "artistIds": [
+      "36132",
+      "61340"
+    ],
+    "promoterIds": [
+      "3269"
+    ]
+  },
+  {
+    "id": "1318657",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T21:30:00",
+    "endTime": "2019-09-29T03:00:00",
+    "title": "FROBAC - Worst Behaviour Payday Special",
+    "venueId": "125514",
+    "artistIds": [],
+    "promoterIds": [
+      "65837"
+    ]
+  },
+  {
+    "id": "1321320",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T14:00:00",
+    "endTime": "2019-09-29T02:00:00",
+    "title": "ParaVibe - Secret Warehouse Day Party with Kane Solo and Friends",
+    "venueId": "174752",
+    "artistIds": [],
+    "promoterIds": [
+      "72089"
+    ]
+  },
+  {
+    "id": "1180861",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T20:30:00",
+    "endTime": "2019-09-28T23:00:00",
+    "title": "Max Cooper: Yearning for the Infinite",
+    "venueId": "31835",
+    "artistIds": [
+      "3641"
+    ],
+    "promoterIds": []
+  },
+  {
+    "id": "1310454",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T05:00:00",
+    "title": "Sofrito Autumn Session",
+    "venueId": "95767",
+    "artistIds": [
+      "10417",
+      "14399",
+      "60461"
+    ],
+    "promoterIds": [
+      "8140"
+    ]
+  },
+  {
+    "id": "1298196",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T15:00:00",
+    "endTime": "2019-09-29T03:00:00",
+    "title": "The Plush Brunch - Brunch By Day Club By Night",
+    "venueId": "29859",
+    "artistIds": [
+      "9619",
+      "56369",
+      "59743",
+      "61478",
+      "87087"
+    ],
+    "promoterIds": [
+      "2160"
+    ]
+  },
+  {
+    "id": "1304648",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:30:00",
+    "endTime": "2019-09-29T06:00:00",
+    "title": "Move London Saturday Sessions Ft. The Love of House",
+    "venueId": "13311",
+    "artistIds": [
+      "80789"
+    ],
+    "promoterIds": [
+      "19828"
+    ]
+  },
+  {
+    "id": "1305040",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T04:00:00",
+    "title": "Equal",
+    "venueId": "5355",
+    "artistIds": [
+      "83971",
+      "91368"
+    ],
+    "promoterIds": [
+      "91833"
+    ]
+  },
+  {
+    "id": "1313282",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T23:00:00",
+    "endTime": "2019-09-29T07:00:00",
+    "title": "Movimento",
+    "venueId": "674",
+    "artistIds": [],
+    "promoterIds": [
+      "16910"
+    ]
+  },
+  {
+    "id": "1289265",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T23:00:00",
+    "endTime": "2019-09-29T06:00:00",
+    "title": "Whitepark Music at Ministry Of Sound's 28th Birthday",
+    "venueId": "725",
+    "artistIds": [
+      "97",
+      "77945",
+      "77964",
+      "92113",
+      "92140"
+    ],
+    "promoterIds": [
+      "448",
+      "79731"
+    ]
+  },
+  {
+    "id": "1263898",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T19:45:00",
+    "endTime": "2019-09-29T00:00:00",
+    "title": "WE Love House Meets Lavish Boat Party",
+    "venueId": "143534",
+    "artistIds": [
+      "63886"
+    ],
+    "promoterIds": [
+      "89343"
+    ]
+  },
+  {
+    "id": "1310616",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T04:00:00",
+    "title": "Friedlander Collective presents Onree",
+    "venueId": "5355",
+    "artistIds": [],
+    "promoterIds": [
+      "92175"
+    ]
+  },
+  {
+    "id": "1311789",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T21:00:00",
+    "endTime": "2019-09-29T03:00:00",
+    "title": "Tales of Voodoo, the Next Chapter: Kolaĝo Kult",
+    "venueId": "97206",
+    "artistIds": [],
+    "promoterIds": [
+      "70711",
+      "92244"
+    ]
+  },
+  {
+    "id": "1295681",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T21:30:00",
+    "endTime": "2019-09-29T03:00:00",
+    "title": "Crush: Hip Hop & RnB Every Saturday",
+    "venueId": "123199",
+    "artistIds": [],
+    "promoterIds": [
+      "22545",
+      "64376"
+    ]
+  },
+  {
+    "id": "1300426",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-30T04:00:00",
+    "title": "Funkatarium",
+    "venueId": "86028",
+    "artistIds": [],
+    "promoterIds": [
+      "86386"
+    ]
+  },
+  {
+    "id": "1310219",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T23:00:00",
+    "endTime": "2019-09-29T03:00:00",
+    "title": "VAMP Sonic - Show Your Teeth with Englesia, New Scenery, Wild Adoration, Sydd Viscose",
+    "venueId": "33659",
+    "artistIds": [
+      "56689",
+      "75272",
+      "89947"
+    ],
+    "promoterIds": [
+      "92145"
+    ]
+  },
+  {
+    "id": "1289118",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T03:00:00",
+    "title": "Deptford Northern Soul Club",
+    "venueId": "12445",
+    "artistIds": [
+      "75435"
+    ],
+    "promoterIds": [
+      "65857"
+    ]
+  },
+  {
+    "id": "1313733",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T03:00:00",
+    "title": "Turn Up Shoreditch - Hiphop, Trap, Dancehall",
+    "venueId": "132928",
+    "artistIds": [],
+    "promoterIds": [
+      "76917"
+    ]
+  },
+  {
+    "id": "1315047",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T16:00:00",
+    "endTime": "2019-09-29T03:00:00",
+    "title": "Extrasaus with Emerald, Emily Dust, Ila Brugal, Kouslin, Muttley and More",
+    "venueId": "2344",
+    "artistIds": [
+      "63900",
+      "82156",
+      "90133"
+    ],
+    "promoterIds": [
+      "44716"
+    ]
+  },
+  {
+    "id": "1315626",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T16:00:00",
+    "endTime": "2019-09-29T23:00:00",
+    "title": "Missile to the Moon day Rave",
+    "venueId": "95943",
+    "artistIds": [],
+    "promoterIds": []
+  },
+  {
+    "id": "1291982",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T03:00:00",
+    "title": "Saturdays at PI // £2.50 Drinks",
+    "venueId": "47278",
+    "artistIds": [],
+    "promoterIds": [
+      "56642"
+    ]
+  },
+  {
+    "id": "1297316",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T03:00:00",
+    "title": "Electric Dreams 80s Electronica Club",
+    "venueId": "123811",
+    "artistIds": [],
+    "promoterIds": []
+  },
+  {
+    "id": "1304257",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T21:30:00",
+    "endTime": "2019-09-29T02:00:00",
+    "title": "Twisted Circus - Virgo Edition",
+    "venueId": "46639",
+    "artistIds": [],
+    "promoterIds": [
+      "41169"
+    ]
+  },
+  {
+    "id": "1304340",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T03:00:00",
+    "title": "Saturdays at Tiger Tiger",
+    "venueId": "88455",
+    "artistIds": [],
+    "promoterIds": [
+      "56642"
+    ]
+  },
+  {
+    "id": "1305307",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T02:00:00",
+    "title": "Remedy - Hip Hop R&B Afrobeats",
+    "venueId": "26131",
+    "artistIds": [],
+    "promoterIds": [
+      "53670"
+    ]
+  },
+  {
+    "id": "1307377",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T21:00:00",
+    "endTime": "2019-09-29T01:00:00",
+    "title": "Naturalia with Dorado at EartH Kitchen",
+    "venueId": "150325",
+    "artistIds": [],
+    "promoterIds": [
+      "87581"
+    ]
+  },
+  {
+    "id": "1310623",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T18:00:00",
+    "endTime": "2019-09-29T23:00:00",
+    "title": "Alice Rowe - Loud in London presents",
+    "venueId": "2411",
+    "artistIds": [],
+    "promoterIds": [
+      "80904"
+    ]
+  },
+  {
+    "id": "1310693",
+    "date": "2019-09-27T00:00:00",
+    "startTime": "2019-09-27T19:00:00",
+    "endTime": "2019-09-28T23:30:00",
+    "title": "Slip Digby - Underground Sound presents",
+    "venueId": "135119",
+    "artistIds": [
+      "37894"
+    ],
+    "promoterIds": [
+      "84443"
+    ]
+  },
+  {
+    "id": "1311746",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T20:00:00",
+    "endTime": "2019-09-29T01:30:00",
+    "title": "Jazz Lates: The Scientists",
+    "venueId": "143620",
+    "artistIds": [],
+    "promoterIds": [
+      "84085"
+    ]
+  },
+  {
+    "id": "1312116",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T04:00:00",
+    "title": "Rock The Belles x Hiphop Hype x Omeara",
+    "venueId": "124422",
+    "artistIds": [
+      "64961"
+    ],
+    "promoterIds": [
+      "80005"
+    ]
+  },
+  {
+    "id": "1313731",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T03:00:00",
+    "title": "Sicko Mode - London's Biggest Hip Hop Party",
+    "venueId": "132928",
+    "artistIds": [],
+    "promoterIds": [
+      "76917"
+    ]
+  },
+  {
+    "id": "1315316",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T18:30:00",
+    "endTime": "2019-09-29T03:30:00",
+    "title": "Don't You Want Me Baby",
+    "venueId": "41610",
+    "artistIds": [],
+    "promoterIds": []
+  },
+  {
+    "id": "1317015",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T04:00:00",
+    "title": "Bashment Wave: Summer Closing Party",
+    "venueId": "165866",
+    "artistIds": [
+      "17192"
+    ],
+    "promoterIds": [
+      "88871"
+    ]
+  },
+  {
+    "id": "1317185",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T03:00:00",
+    "title": "Hip-Hop vs Bashment Party",
+    "venueId": "107826",
+    "artistIds": [],
+    "promoterIds": [
+      "76917"
+    ]
+  },
+  {
+    "id": "1317187",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T03:00:00",
+    "title": "Turn Up South - Hiphop, Trap, Bashment",
+    "venueId": "107826",
+    "artistIds": [],
+    "promoterIds": [
+      "76917"
+    ]
+  },
+  {
+    "id": "1318509",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T20:00:00",
+    "endTime": "2019-09-29T00:00:00",
+    "title": "Boat Party with Sam Supplier",
+    "venueId": "143534",
+    "artistIds": [
+      "64641"
+    ],
+    "promoterIds": [
+      "82204",
+      "90193"
+    ]
+  },
+  {
+    "id": "1319474",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T04:00:00",
+    "title": "Meat Birthday",
+    "venueId": "19082",
+    "artistIds": [
+      "19491"
+    ],
+    "promoterIds": []
+  },
+  {
+    "id": "1322384",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T05:00:00",
+    "endTime": "2019-09-28T10:00:00",
+    "title": "East Ends",
+    "venueId": "6471",
+    "artistIds": [
+      "50821",
+      "67346"
+    ],
+    "promoterIds": [
+      "84785"
+    ]
+  },
+  {
+    "id": "1302900",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:30:00",
+    "endTime": "2019-09-29T03:00:00",
+    "title": "Student Night Every Saturday at Cafe de Paris",
+    "venueId": "10510",
+    "artistIds": [],
+    "promoterIds": [
+      "56642"
+    ]
+  },
+  {
+    "id": "1310335",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T03:00:00",
+    "title": "Soul Eye",
+    "venueId": "82028",
+    "artistIds": [],
+    "promoterIds": [
+      "92154"
+    ]
+  },
+  {
+    "id": "1312663",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T03:00:00",
+    "title": "Deepdowndirty Live - Manchester",
+    "venueId": "174055",
+    "artistIds": [
+      "84752"
+    ],
+    "promoterIds": [
+      "85479"
+    ]
+  },
+  {
+    "id": "1321684",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T21:00:00",
+    "endTime": "2019-09-29T03:00:00",
+    "title": "Disco Freaks",
+    "venueId": "8295",
+    "artistIds": [
+      "71661"
+    ],
+    "promoterIds": []
+  },
+  {
+    "id": "1321884",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T22:00:00",
+    "endTime": "2019-09-29T03:30:00",
+    "title": "Guilty Pleasures",
+    "venueId": "936",
+    "artistIds": [],
+    "promoterIds": []
+  },
+  {
+    "id": "1290820",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T18:00:00",
+    "endTime": "2019-09-29T22:00:00",
+    "title": "20 Years of Finger Lickin Boat Party",
+    "venueId": "132696",
+    "artistIds": [
+      "81",
+      "86",
+      "237",
+      "238",
+      "337",
+      "23031"
+    ],
+    "promoterIds": [
+      "19434",
+      "42414"
+    ]
+  },
+  {
+    "id": "1308402",
+    "date": "2019-09-29T00:00:00",
+    "startTime": "2019-09-29T14:00:00",
+    "endTime": "2019-09-29T22:30:00",
+    "title": "Reculture with Butch + Marcus Worgull",
+    "venueId": "734",
+    "artistIds": [
+      "1301",
+      "1885",
+      "62302",
+      "80887",
+      "81373"
+    ],
+    "promoterIds": [
+      "74897"
+    ]
+  },
+  {
+    "id": "1312457",
+    "date": "2019-09-29T00:00:00",
+    "startTime": "2019-09-29T23:00:00",
+    "endTime": "2019-09-30T04:00:00",
+    "title": "Sundays at fabric: Others Crew with Fabrizio Maurizi, Matteo Manzini & Erick Navas",
+    "venueId": "237",
+    "artistIds": [
+      "4504",
+      "16480"
+    ],
+    "promoterIds": [
+      "967"
+    ]
+  },
+  {
+    "id": "1263798",
+    "date": "2019-09-29T00:00:00",
+    "startTime": "2019-09-29T05:00:00",
+    "endTime": "2019-09-29T15:00:00",
+    "title": "Jaded: Pfirter vs Stephanie Sykes vs Lorenzo Papini",
+    "venueId": "2587",
+    "artistIds": [
+      "1107",
+      "2476",
+      "52934",
+      "56054"
+    ],
+    "promoterIds": [
+      "633"
+    ]
+  },
+  {
+    "id": "1311560",
+    "date": "2019-09-29T00:00:00",
+    "startTime": "2019-09-29T20:00:00",
+    "endTime": "2019-09-30T00:00:00",
+    "title": "Large Professor",
+    "venueId": "121954",
+    "artistIds": [],
+    "promoterIds": [
+      "68906"
+    ]
+  },
+  {
+    "id": "1292844",
+    "date": "2019-09-29T00:00:00",
+    "startTime": "2019-09-29T12:00:00",
+    "endTime": "2019-09-29T23:00:00",
+    "title": "Summer Session - Closing Day Party",
+    "venueId": "874",
+    "artistIds": [
+      "36835",
+      "41245"
+    ],
+    "promoterIds": [
+      "80203"
+    ]
+  },
+  {
+    "id": "1313035",
+    "date": "2019-09-29T00:00:00",
+    "startTime": "2019-09-29T23:59:00",
+    "endTime": "2019-09-30T10:00:00",
+    "title": "Glamorous",
+    "venueId": "170808",
+    "artistIds": [
+      "33250",
+      "43746",
+      "60166",
+      "67346"
+    ],
+    "promoterIds": [
+      "81618"
+    ]
+  },
+  {
+    "id": "1305843",
+    "date": "2019-09-29T00:00:00",
+    "startTime": "2019-09-29T18:00:00",
+    "endTime": "2019-09-30T00:00:00",
+    "title": "Our House - House & Techno Sundays",
+    "venueId": "124651",
+    "artistIds": [
+      "33502",
+      "41518",
+      "67065"
+    ],
+    "promoterIds": [
+      "22311",
+      "75868"
+    ]
+  },
+  {
+    "id": "1305854",
+    "date": "2019-09-29T00:00:00",
+    "startTime": "2019-09-29T23:00:00",
+    "endTime": "2019-09-30T03:00:00",
+    "title": "Our House in Kingsland Road (Night Time)",
+    "venueId": "137343",
+    "artistIds": [
+      "33502",
+      "41518",
+      "67065"
+    ],
+    "promoterIds": [
+      "22311",
+      "75868"
+    ]
+  },
+  {
+    "id": "1287490",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T14:00:00",
+    "endTime": "2019-09-29T21:00:00",
+    "title": "Camden Oktoberfest 2019",
+    "venueId": "936",
+    "artistIds": [],
+    "promoterIds": [
+      "82919"
+    ]
+  },
+  {
+    "id": "1319565",
+    "date": "2019-09-29T00:00:00",
+    "startTime": "2019-09-29T15:00:00",
+    "endTime": "2019-09-29T22:00:00",
+    "title": "We Love Soul Meets Activelove Roof Terrace BBQ Ft. Ingrid",
+    "venueId": "44896",
+    "artistIds": [
+      "66812"
+    ],
+    "promoterIds": [
+      "69058"
+    ]
+  },
+  {
+    "id": "1320022",
+    "date": "2019-09-29T00:00:00",
+    "startTime": "2019-09-29T13:00:00",
+    "endTime": "2019-09-29T22:00:00",
+    "title": "East London Radio Drum & Bass Fundraiser",
+    "venueId": "114463",
+    "artistIds": [
+      "36441",
+      "37253",
+      "62321",
+      "62524"
+    ],
+    "promoterIds": [
+      "67585",
+      "91017"
+    ]
+  },
+  {
+    "id": "1309253",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T15:00:00",
+    "endTime": "2019-09-29T23:00:00",
+    "title": "Faded - F**k it one More Day Party",
+    "venueId": "148994",
+    "artistIds": [],
+    "promoterIds": [
+      "41586"
+    ]
+  },
+  {
+    "id": "1298183",
+    "date": "2019-09-29T00:00:00",
+    "startTime": "2019-09-29T18:00:00",
+    "endTime": "2019-09-30T00:00:00",
+    "title": "Xworm – The Tapeworm x Cafe OTO",
+    "venueId": "35945",
+    "artistIds": [
+      "995",
+      "9533",
+      "75598"
+    ],
+    "promoterIds": []
+  },
+  {
+    "id": "1306865",
+    "date": "2019-09-29T00:00:00",
+    "startTime": "2019-09-29T20:00:00",
+    "endTime": "2019-09-29T22:30:00",
+    "title": "Jenny Hval: The Practice of Love",
+    "venueId": "120211",
+    "artistIds": [
+      "80291"
+    ],
+    "promoterIds": [
+      "23576",
+      "13653"
+    ]
+  },
+  {
+    "id": "1315626",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T16:00:00",
+    "endTime": "2019-09-29T23:00:00",
+    "title": "Missile to the Moon day Rave",
+    "venueId": "95943",
+    "artistIds": [],
+    "promoterIds": []
+  },
+  {
+    "id": "1317999",
+    "date": "2019-09-29T00:00:00",
+    "startTime": "2019-09-29T14:00:00",
+    "endTime": "2019-09-29T23:00:00",
+    "title": "Trouble Turns 60 - presented by Friends of Paul Trouble Anderson",
+    "venueId": "172847",
+    "artistIds": [
+      "36455",
+      "52062",
+      "83749"
+    ],
+    "promoterIds": [
+      "91610",
+      "62250",
+      "58279"
+    ]
+  },
+  {
+    "id": "1318028",
+    "date": "2019-09-29T00:00:00",
+    "startTime": "2019-09-29T15:00:00",
+    "endTime": "2019-09-29T23:00:00",
+    "title": "Outransa",
+    "venueId": "122921",
+    "artistIds": [
+      "51395",
+      "66565"
+    ],
+    "promoterIds": []
+  },
+  {
+    "id": "1322083",
+    "date": "2019-09-29T00:00:00",
+    "startTime": "2019-09-29T13:00:00",
+    "endTime": "2019-09-29T22:30:00",
+    "title": "Hoxton Forward Movement Free Daytime Sunday Gathering with Pop-Up Record Shop & Secret Guest",
+    "venueId": "94507",
+    "artistIds": [
+      "3074",
+      "9038",
+      "48350",
+      "90495"
+    ],
+    "promoterIds": [
+      "32001",
+      "73341"
+    ]
+  },
+  {
+    "id": "1268636",
+    "date": "2019-09-29T00:00:00",
+    "startTime": "2019-09-29T23:00:00",
+    "endTime": "2019-09-30T06:00:00",
+    "title": "Point.// Sundays",
+    "venueId": "11563",
+    "artistIds": [],
+    "promoterIds": []
+  },
+  {
+    "id": "1268648",
+    "date": "2019-09-29T00:00:00",
+    "startTime": "2019-09-29T12:00:00",
+    "endTime": "2019-09-29T22:00:00",
+    "title": "Point.// Sunday Daytime Outdoor",
+    "venueId": "148468",
+    "artistIds": [],
+    "promoterIds": []
+  },
+  {
+    "id": "1310623",
+    "date": "2019-09-28T00:00:00",
+    "startTime": "2019-09-28T18:00:00",
+    "endTime": "2019-09-29T23:00:00",
+    "title": "Alice Rowe - Loud in London presents",
+    "venueId": "2411",
+    "artistIds": [],
+    "promoterIds": [
+      "80904"
+    ]
+  },
+  {
+    "id": "1314355",
+    "date": "2019-09-29T00:00:00",
+    "startTime": "2019-09-29T15:00:00",
+    "endTime": "2019-09-30T00:00:00",
+    "title": "Houseology and Friends",
+    "venueId": "150757",
+    "artistIds": [
+      "32645",
+      "33012",
+      "36517",
+      "42173",
+      "51000"
+    ],
+    "promoterIds": [
+      "91584",
+      "91587"
+    ]
+  },
+  {
+    "id": "1318869",
+    "date": "2019-09-29T00:00:00",
+    "startTime": "2019-09-29T19:00:00",
+    "endTime": "2019-09-30T00:30:00",
+    "title": "Tamesis Trilogy I at Totally Thames Festival",
+    "venueId": "52244",
+    "artistIds": [
+      "12989",
+      "92765"
+    ],
+    "promoterIds": [
+      "92679"
+    ]
+  },
+  {
+    "id": "1322391",
+    "date": "2019-09-29T00:00:00",
+    "startTime": "2019-09-29T05:00:00",
+    "endTime": "2019-09-29T10:00:00",
+    "title": "Danach",
+    "venueId": "6471",
+    "artistIds": [
+      "50821",
+      "64120",
+      "67346"
+    ],
+    "promoterIds": [
+      "84785"
+    ]
+  },
+  {
+    "id": "1304856",
+    "date": "2019-09-29T00:00:00",
+    "startTime": "2019-09-29T22:00:00",
+    "endTime": "2019-09-30T03:00:00",
+    "title": "Saturdays at The Loop // £3 Drinks",
+    "venueId": "108938",
+    "artistIds": [],
+    "promoterIds": [
+      "56642"
+    ]
+  },
+  {
+    "id": "1306747",
+    "date": "2019-09-30T00:00:00",
+    "startTime": "2019-09-30T18:00:00",
+    "endTime": "2019-09-30T21:00:00",
+    "title": "The Cause X London DJ School (DJ Lessons)",
+    "venueId": "150005",
+    "artistIds": [],
+    "promoterIds": [
+      "84396"
+    ]
+  },
+  {
+    "id": "1312106",
+    "date": "2019-09-30T00:00:00",
+    "startTime": "2019-09-30T22:00:00",
+    "endTime": "2019-10-01T03:00:00",
+    "title": "Play London Every Monday",
+    "venueId": "33592",
+    "artistIds": [],
+    "promoterIds": [
+      "62247"
+    ]
+  },
+  {
+    "id": "1299639",
+    "date": "2019-09-30T00:00:00",
+    "startTime": "2019-09-30T22:00:00",
+    "endTime": "2019-10-01T03:00:00",
+    "title": "Kandy Mondays £2 Drinks",
+    "venueId": "41610",
+    "artistIds": [],
+    "promoterIds": [
+      "56642"
+    ]
+  },
+  {
+    "id": "1322148",
+    "date": "2019-10-01T00:00:00",
+    "startTime": "2019-10-01T22:30:00",
+    "endTime": "2019-10-02T05:00:00",
+    "title": "Paradox presents Tuesday Madness",
+    "venueId": "874",
+    "artistIds": [],
+    "promoterIds": [
+      "37817"
+    ]
+  },
+  {
+    "id": "1306205",
+    "date": "2019-10-01T00:00:00",
+    "startTime": "2019-10-01T19:30:00",
+    "endTime": "2019-10-01T23:30:00",
+    "title": "Nihiloxica (Nyege Nyege Tapes)",
+    "venueId": "150005",
+    "artistIds": [
+      "77264",
+      "80400"
+    ],
+    "promoterIds": [
+      "60162"
+    ]
+  },
+  {
+    "id": "1319182",
+    "date": "2019-10-01T00:00:00",
+    "startTime": "2019-10-01T22:00:00",
+    "endTime": "2019-10-02T03:00:00",
+    "title": "Battle OF The Unis London",
+    "venueId": "2411",
+    "artistIds": [],
+    "promoterIds": [
+      "88452"
+    ]
+  },
+  {
+    "id": "1299681",
+    "date": "2019-10-01T00:00:00",
+    "startTime": "2019-10-01T22:00:00",
+    "endTime": "2019-10-02T03:00:00",
+    "title": "Sneak Every Tuesday",
+    "venueId": "33592",
+    "artistIds": [],
+    "promoterIds": [
+      "45141",
+      "56642"
+    ]
+  },
+  {
+    "id": "1317914",
+    "date": "2019-10-02T00:00:00",
+    "startTime": "2019-10-02T23:00:00",
+    "endTime": "2019-10-03T03:00:00",
+    "title": "Decadia Industry Wednesdays",
+    "venueId": "47278",
+    "artistIds": [
+      "58347",
+      "74844"
+    ],
+    "promoterIds": [
+      "61041"
+    ]
+  },
+  {
+    "id": "1313022",
+    "date": "2019-10-02T00:00:00",
+    "startTime": "2019-10-02T23:59:00",
+    "endTime": "2019-10-03T09:00:00",
+    "title": "F.M.G",
+    "venueId": "170808",
+    "artistIds": [
+      "41346",
+      "43746",
+      "67346",
+      "80173"
+    ],
+    "promoterIds": [
+      "81618"
+    ]
+  },
+  {
+    "id": "1319183",
+    "date": "2019-10-02T00:00:00",
+    "startTime": "2019-10-02T22:00:00",
+    "endTime": "2019-10-03T02:00:00",
+    "title": "The London Freshers Ball",
+    "venueId": "46639",
+    "artistIds": [],
+    "promoterIds": [
+      "88452"
+    ]
+  },
+  {
+    "id": "1321491",
+    "date": "2019-10-02T00:00:00",
+    "startTime": "2019-10-02T22:30:00",
+    "endTime": "2019-10-03T03:00:00",
+    "title": "Final Cut: Student Party - R&B, Charts, House and More",
+    "venueId": "874",
+    "artistIds": [],
+    "promoterIds": [
+      "36225"
+    ]
+  },
+  {
+    "id": "1312198",
+    "date": "2019-10-02T00:00:00",
+    "startTime": "2019-10-02T19:00:00",
+    "endTime": "2019-10-02T22:00:00",
+    "title": "Albert Oehlen Invites Steamboat and Lorenzo Senni",
+    "venueId": "174010",
+    "artistIds": [
+      "45111"
+    ],
+    "promoterIds": []
+  },
+  {
+    "id": "1305236",
+    "date": "2019-10-02T00:00:00",
+    "startTime": "2019-10-02T17:00:00",
+    "endTime": "2019-10-02T23:00:00",
+    "title": "Daisy Jopling Band & Special Guests",
+    "venueId": "95943",
+    "artistIds": [],
+    "promoterIds": [
+      "87846"
+    ]
+  },
+  {
+    "id": "1317003",
+    "date": "2019-10-02T00:00:00",
+    "startTime": "2019-10-02T21:00:00",
+    "endTime": "2019-10-03T02:00:00",
+    "title": "The Hype Wednesdays",
+    "venueId": "18616",
+    "artistIds": [],
+    "promoterIds": [
+      "71425"
+    ]
+  },
+  {
+    "id": "1318050",
+    "date": "2019-10-02T00:00:00",
+    "startTime": "2019-10-02T16:00:00",
+    "endTime": "2019-10-03T23:00:00",
+    "title": "Eclectic Lounge with Evonii & Sami Dilla",
+    "venueId": "122921",
+    "artistIds": [
+      "55940",
+      "85851"
+    ],
+    "promoterIds": []
+  },
+  {
+    "id": "1298075",
+    "date": "2019-10-03T00:00:00",
+    "startTime": "2019-10-03T20:00:00",
+    "endTime": "2019-10-04T00:00:00",
+    "title": "fabric XX: UNKLE: AI (Live)",
+    "venueId": "237",
+    "artistIds": [
+      "562",
+      "17334"
+    ],
+    "promoterIds": [
+      "86082",
+      "967"
+    ]
+  },
+  {
+    "id": "1305353",
+    "date": "2019-10-03T00:00:00",
+    "startTime": "2019-10-03T22:00:00",
+    "endTime": "2019-10-04T05:00:00",
+    "title": "The Official Freshers Closing Party at Fire London",
+    "venueId": "112736",
+    "artistIds": [],
+    "promoterIds": [
+      "33403"
+    ]
+  },
+  {
+    "id": "1255470",
+    "date": "2019-10-03T00:00:00",
+    "startTime": "2019-10-03T22:00:00",
+    "endTime": "2019-10-04T03:00:00",
+    "title": "GLO Thursday at Egg London",
+    "venueId": "874",
+    "artistIds": [],
+    "promoterIds": [
+      "91795",
+      "37817"
+    ]
+  },
+  {
+    "id": "1310071",
+    "date": "2019-10-03T00:00:00",
+    "startTime": "2019-10-03T21:00:00",
+    "endTime": "2019-10-04T02:00:00",
+    "title": "Sikdope: London Headline Show",
+    "venueId": "123199",
+    "artistIds": [],
+    "promoterIds": [
+      "64376"
+    ]
+  },
+  {
+    "id": "1320758",
+    "date": "2019-10-03T00:00:00",
+    "startTime": "2019-10-03T20:00:00",
+    "endTime": "2019-10-04T01:00:00",
+    "title": "555-5555 // patten // Weirdcore // Flora Yin-Wong // Mary Hurrell // Lucinda Chua",
+    "venueId": "2587",
+    "artistIds": [
+      "33701",
+      "42909"
+    ],
+    "promoterIds": [
+      "45610"
+    ]
+  },
+  {
+    "id": "1310255",
+    "date": "2019-10-03T00:00:00",
+    "startTime": "2019-10-03T22:00:00",
+    "endTime": "2019-10-04T02:30:00",
+    "title": "Loose Knees",
+    "venueId": "95943",
+    "artistIds": [
+      "74669"
+    ],
+    "promoterIds": [
+      "92147"
+    ]
+  },
+  {
+    "id": "1315921",
+    "date": "2019-10-03T00:00:00",
+    "startTime": "2019-10-03T18:00:00",
+    "endTime": "2019-10-04T00:00:00",
+    "title": "Instincts - Fifth Edition (Rebirth)",
+    "venueId": "141496",
+    "artistIds": [],
+    "promoterIds": [
+      "82778"
+    ]
+  },
+  {
+    "id": "1320738",
+    "date": "2019-10-03T00:00:00",
+    "startTime": "2019-10-03T19:00:00",
+    "endTime": "2019-10-04T02:00:00",
+    "title": "Haira 'Divine Intervention' 0004",
+    "venueId": "133599",
+    "artistIds": [
+      "91546"
+    ],
+    "promoterIds": [
+      "88657"
+    ]
+  },
+  {
+    "id": "1319185",
+    "date": "2019-10-03T00:00:00",
+    "startTime": "2019-10-03T22:00:00",
+    "endTime": "2019-10-04T03:00:00",
+    "title": "BAD Decisions Freshers Finale",
+    "venueId": "47278",
+    "artistIds": [],
+    "promoterIds": [
+      "88452"
+    ]
+  },
+  {
+    "id": "1314621",
+    "date": "2019-10-03T00:00:00",
+    "startTime": "2019-10-03T20:00:00",
+    "endTime": "2019-10-03T23:00:00",
+    "title": "Talkin' Headz with Goldie & Gilles Peterson",
+    "venueId": "135605",
+    "artistIds": [
+      "13",
+      "357"
+    ],
+    "promoterIds": [
+      "40584"
+    ]
+  },
+  {
+    "id": "1313206",
+    "date": "2019-10-03T00:00:00",
+    "startTime": "2019-10-03T23:59:00",
+    "endTime": "2019-10-04T06:00:00",
+    "title": "TND",
+    "venueId": "674",
+    "artistIds": [
+      "3106",
+      "53506"
+    ],
+    "promoterIds": [
+      "16910"
+    ]
+  },
+  {
+    "id": "1319270",
+    "date": "2019-10-03T00:00:00",
+    "startTime": "2019-10-03T19:00:00",
+    "endTime": "2019-10-04T00:00:00",
+    "title": "No Boundaries with DJ Louie & Arthur Lastmann",
+    "venueId": "122921",
+    "artistIds": [
+      "34466"
+    ],
+    "promoterIds": [
+      "92711"
+    ]
+  },
+  {
+    "id": "1299731",
+    "date": "2019-10-03T00:00:00",
+    "startTime": "2019-10-03T22:00:00",
+    "endTime": "2019-10-04T03:00:00",
+    "title": "Throwback Thursdays Camden",
+    "venueId": "9187",
+    "artistIds": [],
+    "promoterIds": [
+      "56642"
+    ]
+  },
+  {
+    "id": "1316409",
+    "date": "2019-10-03T00:00:00",
+    "startTime": "2019-10-03T20:00:00",
+    "endTime": "2019-10-04T02:00:00",
+    "title": "Hip Hop Karaoke at Queen of Hoxton",
+    "venueId": "4552",
+    "artistIds": [],
+    "promoterIds": [
+      "53670"
+    ]
+  },
+  {
+    "id": "1316819",
+    "date": "2019-10-03T00:00:00",
+    "startTime": "2019-10-03T19:00:00",
+    "endTime": "2019-10-03T23:00:00",
+    "title": "Sister Collective Takeover, Shoreditch",
+    "venueId": "66817",
+    "artistIds": [
+      "52081",
+      "69325",
+      "79844",
+      "82406",
+      "90132",
+      "90721"
+    ],
+    "promoterIds": []
+  },
+  {
+    "id": "1317932",
+    "date": "2019-10-03T00:00:00",
+    "startTime": "2019-10-03T18:00:00",
+    "endTime": "2019-10-03T23:00:00",
+    "title": "Umami Salame Test Kitchen",
+    "venueId": "133599",
+    "artistIds": [],
+    "promoterIds": [
+      "61041"
+    ]
+  },
+  {
+    "id": "1318050",
+    "date": "2019-10-02T00:00:00",
+    "startTime": "2019-10-02T16:00:00",
+    "endTime": "2019-10-03T23:00:00",
+    "title": "Eclectic Lounge with Evonii & Sami Dilla",
+    "venueId": "122921",
+    "artistIds": [
+      "55940",
+      "85851"
+    ],
+    "promoterIds": []
+  },
+  {
+    "id": "1319936",
+    "date": "2019-10-03T00:00:00",
+    "startTime": "2019-10-03T21:00:00",
+    "endTime": "2019-10-04T02:30:00",
+    "title": "Fresh Thursdays",
+    "venueId": "18616",
+    "artistIds": [],
+    "promoterIds": [
+      "71425"
+    ]
+  },
+  {
+    "id": "1322304",
+    "date": "2019-10-03T00:00:00",
+    "startTime": "2019-10-03T23:00:00",
+    "endTime": "2019-10-04T05:00:00",
+    "title": "Thursday Bash! *Vinyl Edition*",
+    "venueId": "137343",
+    "artistIds": [
+      "57575"
+    ],
+    "promoterIds": []
+  },
+  {
+    "id": "1319084",
+    "date": "2019-10-03T00:00:00",
+    "startTime": "2019-10-03T22:00:00",
+    "endTime": "2019-10-04T03:00:00",
+    "title": "Reload It",
+    "venueId": "164494",
+    "artistIds": [],
+    "promoterIds": []
+  },
+  {
+    "id": "1312577",
+    "date": "2019-10-03T00:00:00",
+    "startTime": "2019-10-03T21:30:00",
+    "endTime": "2019-10-04T03:00:00",
+    "title": "[CANCELED] Wookie: UKG Special",
+    "venueId": "106730",
+    "artistIds": [
+      "64640"
+    ],
+    "promoterIds": [
+      "55110"
+    ]
+  }
+]

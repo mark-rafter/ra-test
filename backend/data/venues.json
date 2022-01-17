@@ -1,0 +1,962 @@
+[
+  {
+    "id": "141756",
+    "name": "E1 London"
+  },
+  {
+    "id": "100941",
+    "name": "The Steelyard"
+  },
+  {
+    "id": "106730",
+    "name": "Phonox"
+  },
+  {
+    "id": "4567",
+    "name": "Village Underground"
+  },
+  {
+    "id": "874",
+    "name": "Egg London"
+  },
+  {
+    "id": "33592",
+    "name": "XOYO"
+  },
+  {
+    "id": "150325",
+    "name": "EartH"
+  },
+  {
+    "id": "95767",
+    "name": "The Pickle Factory"
+  },
+  {
+    "id": "2587",
+    "name": "Corsica Studios"
+  },
+  {
+    "id": "21896",
+    "name": "CLF Art Cafe [Block A, Bussey Building]"
+  },
+  {
+    "id": "1502",
+    "name": "The Jazz Cafe"
+  },
+  {
+    "id": "237",
+    "name": "fabric"
+  },
+  {
+    "id": "131787",
+    "name": "Beckenham Park Mansion"
+  },
+  {
+    "id": "156290",
+    "name": "Venue MOT Unit 18"
+  },
+  {
+    "id": "1557",
+    "name": "Brixton Jamm"
+  },
+  {
+    "id": "133599",
+    "name": "Five Miles"
+  },
+  {
+    "id": "123199",
+    "name": "Camden Assembly"
+  },
+  {
+    "id": "86422",
+    "name": "Low Profile Studios"
+  },
+  {
+    "id": "155586",
+    "name": "Night Tales"
+  },
+  {
+    "id": "164033",
+    "name": "Unit 58"
+  },
+  {
+    "id": "122921",
+    "name": "Lion and Lamb"
+  },
+  {
+    "id": "144451",
+    "name": "Tola"
+  },
+  {
+    "id": "150005",
+    "name": "The Cause"
+  },
+  {
+    "id": "734",
+    "name": "93 Feet East"
+  },
+  {
+    "id": "124651",
+    "name": "Shoreditch Platform"
+  },
+  {
+    "id": "30015",
+    "name": "Basing House"
+  },
+  {
+    "id": "61205",
+    "name": "The Waiting Room"
+  },
+  {
+    "id": "120249",
+    "name": "TBA - South London"
+  },
+  {
+    "id": "1103",
+    "name": "Fire"
+  },
+  {
+    "id": "72207",
+    "name": "Number 90"
+  },
+  {
+    "id": "164341",
+    "name": "The Jago"
+  },
+  {
+    "id": "3321",
+    "name": "The Scala"
+  },
+  {
+    "id": "125514",
+    "name": "Junction House"
+  },
+  {
+    "id": "74592",
+    "name": "Studio 338"
+  },
+  {
+    "id": "95943",
+    "name": "Rye Wax"
+  },
+  {
+    "id": "124855",
+    "name": "Luna"
+  },
+  {
+    "id": "147611",
+    "name": "The Glove That Fits"
+  },
+  {
+    "id": "172847",
+    "name": "CLF Art Lounge & Roof Garden"
+  },
+  {
+    "id": "5357",
+    "name": "Bloomsbury Bowling Lanes"
+  },
+  {
+    "id": "92397",
+    "name": "The Fiddler's Elbow"
+  },
+  {
+    "id": "174273",
+    "name": "The Orchid Lounge"
+  },
+  {
+    "id": "102872",
+    "name": "Miranda"
+  },
+  {
+    "id": "138202",
+    "name": "The Curtain"
+  },
+  {
+    "id": "5355",
+    "name": "The Horse & Groom"
+  },
+  {
+    "id": "1777",
+    "name": "TBA - East London"
+  },
+  {
+    "id": "725",
+    "name": "Ministry Of Sound"
+  },
+  {
+    "id": "674",
+    "name": "Aquarium"
+  },
+  {
+    "id": "83829",
+    "name": "The Yard"
+  },
+  {
+    "id": "5355",
+    "name": "The Horse & Groom"
+  },
+  {
+    "id": "10510",
+    "name": "Cafe De Paris"
+  },
+  {
+    "id": "88455",
+    "name": "Tiger Tiger London"
+  },
+  {
+    "id": "14114",
+    "name": "The Castle"
+  },
+  {
+    "id": "65362",
+    "name": "The Prince of Wales"
+  },
+  {
+    "id": "128771",
+    "name": "The White Hart - New Cross"
+  },
+  {
+    "id": "102432",
+    "name": "Iklectik"
+  },
+  {
+    "id": "47278",
+    "name": "Piccadilly Institute"
+  },
+  {
+    "id": "108938",
+    "name": "Loop Bar & Nightclub"
+  },
+  {
+    "id": "30669",
+    "name": "Zoo Bar & Club"
+  },
+  {
+    "id": "104554",
+    "name": "Trapeze Basement"
+  },
+  {
+    "id": "46639",
+    "name": "Shaka Zulu"
+  },
+  {
+    "id": "135119",
+    "name": "The Rocksteady"
+  },
+  {
+    "id": "143620",
+    "name": "Ninety One"
+  },
+  {
+    "id": "127364",
+    "name": "Juju's Bar & Stage"
+  },
+  {
+    "id": "92022",
+    "name": "Tasty Bakery"
+  },
+  {
+    "id": "67011",
+    "name": "Fest Camden"
+  },
+  {
+    "id": "133105",
+    "name": "The Lighthouse Bar & Club"
+  },
+  {
+    "id": "108265",
+    "name": "New River Studios"
+  },
+  {
+    "id": "114463",
+    "name": "Mick's Garage"
+  },
+  {
+    "id": "150325",
+    "name": "EartH"
+  },
+  {
+    "id": "62885",
+    "name": "Rolling Stock"
+  },
+  {
+    "id": "62885",
+    "name": "Rolling Stock"
+  },
+  {
+    "id": "43309",
+    "name": "Revolution"
+  },
+  {
+    "id": "43309",
+    "name": "Revolution"
+  },
+  {
+    "id": "174061",
+    "name": "The Red Lion, Ealing"
+  },
+  {
+    "id": "41610",
+    "name": "The Roxy"
+  },
+  {
+    "id": "173144",
+    "name": "Colours Hoxton"
+  },
+  {
+    "id": "8295",
+    "name": "Notting Hill Arts Club"
+  },
+  {
+    "id": "141756",
+    "name": "E1 London"
+  },
+  {
+    "id": "52120",
+    "name": "Electric Brixton"
+  },
+  {
+    "id": "100941",
+    "name": "The Steelyard"
+  },
+  {
+    "id": "127337",
+    "name": "Printworks"
+  },
+  {
+    "id": "874",
+    "name": "Egg London"
+  },
+  {
+    "id": "114463",
+    "name": "Mick's Garage"
+  },
+  {
+    "id": "4567",
+    "name": "Village Underground"
+  },
+  {
+    "id": "141756",
+    "name": "E1 London"
+  },
+  {
+    "id": "74592",
+    "name": "Studio 338"
+  },
+  {
+    "id": "141756",
+    "name": "E1 London"
+  },
+  {
+    "id": "155399",
+    "name": "FOLD"
+  },
+  {
+    "id": "874",
+    "name": "Egg London"
+  },
+  {
+    "id": "132696",
+    "name": "The Dutch Master"
+  },
+  {
+    "id": "237",
+    "name": "fabric"
+  },
+  {
+    "id": "106730",
+    "name": "Phonox"
+  },
+  {
+    "id": "21896",
+    "name": "CLF Art Cafe [Block A, Bussey Building]"
+  },
+  {
+    "id": "937",
+    "name": "Electrowerkz"
+  },
+  {
+    "id": "147611",
+    "name": "The Glove That Fits"
+  },
+  {
+    "id": "147502",
+    "name": "TBA - London"
+  },
+  {
+    "id": "1502",
+    "name": "The Jazz Cafe"
+  },
+  {
+    "id": "2587",
+    "name": "Corsica Studios"
+  },
+  {
+    "id": "30015",
+    "name": "Basing House"
+  },
+  {
+    "id": "734",
+    "name": "93 Feet East"
+  },
+  {
+    "id": "147502",
+    "name": "TBA - London"
+  },
+  {
+    "id": "1777",
+    "name": "TBA - East London"
+  },
+  {
+    "id": "150005",
+    "name": "The Cause"
+  },
+  {
+    "id": "1557",
+    "name": "Brixton Jamm"
+  },
+  {
+    "id": "65362",
+    "name": "The Prince of Wales"
+  },
+  {
+    "id": "133599",
+    "name": "Five Miles"
+  },
+  {
+    "id": "155586",
+    "name": "Night Tales"
+  },
+  {
+    "id": "148468",
+    "name": "Grow Tottenham"
+  },
+  {
+    "id": "725",
+    "name": "Ministry Of Sound"
+  },
+  {
+    "id": "13311",
+    "name": "Lightbox"
+  },
+  {
+    "id": "150410",
+    "name": "Royal Oak"
+  },
+  {
+    "id": "83829",
+    "name": "The Yard"
+  },
+  {
+    "id": "124651",
+    "name": "Shoreditch Platform"
+  },
+  {
+    "id": "156290",
+    "name": "Venue MOT Unit 18"
+  },
+  {
+    "id": "20525",
+    "name": "Metropolis"
+  },
+  {
+    "id": "72207",
+    "name": "Number 90"
+  },
+  {
+    "id": "151483",
+    "name": "Starlane Pizza Bar"
+  },
+  {
+    "id": "173166",
+    "name": "Infinity London"
+  },
+  {
+    "id": "33592",
+    "name": "XOYO"
+  },
+  {
+    "id": "166931",
+    "name": "Dalston Roof Park"
+  },
+  {
+    "id": "167068",
+    "name": "Magic Spells Brewery"
+  },
+  {
+    "id": "169317",
+    "name": "The Post Bar Tottenham"
+  },
+  {
+    "id": "87489",
+    "name": "Oslo Hackney"
+  },
+  {
+    "id": "147746",
+    "name": "SET"
+  },
+  {
+    "id": "67011",
+    "name": "Fest Camden"
+  },
+  {
+    "id": "144451",
+    "name": "Tola"
+  },
+  {
+    "id": "102872",
+    "name": "Miranda"
+  },
+  {
+    "id": "172912",
+    "name": "Jakata London"
+  },
+  {
+    "id": "936",
+    "name": "Electric Ballroom"
+  },
+  {
+    "id": "4552",
+    "name": "Queen Of Hoxton"
+  },
+  {
+    "id": "94507",
+    "name": "Grow"
+  },
+  {
+    "id": "148994",
+    "name": "Pitch Stratford"
+  },
+  {
+    "id": "170808",
+    "name": "Union Club, Vauxhall"
+  },
+  {
+    "id": "20525",
+    "name": "Metropolis"
+  },
+  {
+    "id": "143534",
+    "name": "Crown Pier"
+  },
+  {
+    "id": "61205",
+    "name": "The Waiting Room"
+  },
+  {
+    "id": "125514",
+    "name": "Junction House"
+  },
+  {
+    "id": "174752",
+    "name": "Secret East London Warehouse"
+  },
+  {
+    "id": "31835",
+    "name": "The Barbican Centre"
+  },
+  {
+    "id": "95767",
+    "name": "The Pickle Factory"
+  },
+  {
+    "id": "29859",
+    "name": "McQueen"
+  },
+  {
+    "id": "13311",
+    "name": "Lightbox"
+  },
+  {
+    "id": "5355",
+    "name": "The Horse & Groom"
+  },
+  {
+    "id": "674",
+    "name": "Aquarium"
+  },
+  {
+    "id": "725",
+    "name": "Ministry Of Sound"
+  },
+  {
+    "id": "143534",
+    "name": "Crown Pier"
+  },
+  {
+    "id": "5355",
+    "name": "The Horse & Groom"
+  },
+  {
+    "id": "97206",
+    "name": "Folklore"
+  },
+  {
+    "id": "123199",
+    "name": "Camden Assembly"
+  },
+  {
+    "id": "86028",
+    "name": "Simulacra Studio"
+  },
+  {
+    "id": "33659",
+    "name": "VFD"
+  },
+  {
+    "id": "12445",
+    "name": "Bunker Club"
+  },
+  {
+    "id": "132928",
+    "name": "The Lighthouse"
+  },
+  {
+    "id": "2344",
+    "name": "Lockside Camden"
+  },
+  {
+    "id": "95943",
+    "name": "Rye Wax"
+  },
+  {
+    "id": "47278",
+    "name": "Piccadilly Institute"
+  },
+  {
+    "id": "123811",
+    "name": "The Cannick Tapps"
+  },
+  {
+    "id": "46639",
+    "name": "Shaka Zulu"
+  },
+  {
+    "id": "88455",
+    "name": "Tiger Tiger London"
+  },
+  {
+    "id": "26131",
+    "name": "Concrete Space"
+  },
+  {
+    "id": "150325",
+    "name": "EartH"
+  },
+  {
+    "id": "2411",
+    "name": "O2 Academy Islington"
+  },
+  {
+    "id": "135119",
+    "name": "The Rocksteady"
+  },
+  {
+    "id": "143620",
+    "name": "Ninety One"
+  },
+  {
+    "id": "124422",
+    "name": "Omeara"
+  },
+  {
+    "id": "132928",
+    "name": "The Lighthouse"
+  },
+  {
+    "id": "41610",
+    "name": "The Roxy"
+  },
+  {
+    "id": "165866",
+    "name": "Club Vibes Night Club"
+  },
+  {
+    "id": "107826",
+    "name": "Fu Manchu"
+  },
+  {
+    "id": "107826",
+    "name": "Fu Manchu"
+  },
+  {
+    "id": "143534",
+    "name": "Crown Pier"
+  },
+  {
+    "id": "19082",
+    "name": "Dalston Superstore"
+  },
+  {
+    "id": "6471",
+    "name": "Club Reina"
+  },
+  {
+    "id": "10510",
+    "name": "Cafe De Paris"
+  },
+  {
+    "id": "82028",
+    "name": "Camden Eye"
+  },
+  {
+    "id": "174055",
+    "name": "The Zombie Shack"
+  },
+  {
+    "id": "8295",
+    "name": "Notting Hill Arts Club"
+  },
+  {
+    "id": "936",
+    "name": "Electric Ballroom"
+  },
+  {
+    "id": "132696",
+    "name": "The Dutch Master"
+  },
+  {
+    "id": "734",
+    "name": "93 Feet East"
+  },
+  {
+    "id": "237",
+    "name": "fabric"
+  },
+  {
+    "id": "2587",
+    "name": "Corsica Studios"
+  },
+  {
+    "id": "121954",
+    "name": "Chip Shop Brixton"
+  },
+  {
+    "id": "874",
+    "name": "Egg London"
+  },
+  {
+    "id": "170808",
+    "name": "Union Club, Vauxhall"
+  },
+  {
+    "id": "124651",
+    "name": "Shoreditch Platform"
+  },
+  {
+    "id": "137343",
+    "name": "La Cabina"
+  },
+  {
+    "id": "936",
+    "name": "Electric Ballroom"
+  },
+  {
+    "id": "44896",
+    "name": "Dalston Roof Park"
+  },
+  {
+    "id": "114463",
+    "name": "Mick's Garage"
+  },
+  {
+    "id": "148994",
+    "name": "Pitch Stratford"
+  },
+  {
+    "id": "35945",
+    "name": "Cafe OTO"
+  },
+  {
+    "id": "120211",
+    "name": "Milton Court Concert Hall"
+  },
+  {
+    "id": "95943",
+    "name": "Rye Wax"
+  },
+  {
+    "id": "172847",
+    "name": "CLF Art Lounge & Roof Garden"
+  },
+  {
+    "id": "122921",
+    "name": "Lion and Lamb"
+  },
+  {
+    "id": "94507",
+    "name": "Grow"
+  },
+  {
+    "id": "11563",
+    "name": "512 London"
+  },
+  {
+    "id": "148468",
+    "name": "Grow Tottenham"
+  },
+  {
+    "id": "2411",
+    "name": "O2 Academy Islington"
+  },
+  {
+    "id": "150757",
+    "name": "Windrush Bar / Pequeño Restaurant & Bar"
+  },
+  {
+    "id": "52244",
+    "name": "Tamesis Boat Dock"
+  },
+  {
+    "id": "6471",
+    "name": "Club Reina"
+  },
+  {
+    "id": "108938",
+    "name": "Loop Bar & Nightclub"
+  },
+  {
+    "id": "150005",
+    "name": "The Cause"
+  },
+  {
+    "id": "33592",
+    "name": "XOYO"
+  },
+  {
+    "id": "41610",
+    "name": "The Roxy"
+  },
+  {
+    "id": "874",
+    "name": "Egg London"
+  },
+  {
+    "id": "150005",
+    "name": "The Cause"
+  },
+  {
+    "id": "2411",
+    "name": "O2 Academy Islington"
+  },
+  {
+    "id": "33592",
+    "name": "XOYO"
+  },
+  {
+    "id": "47278",
+    "name": "Piccadilly Institute"
+  },
+  {
+    "id": "170808",
+    "name": "Union Club, Vauxhall"
+  },
+  {
+    "id": "46639",
+    "name": "Shaka Zulu"
+  },
+  {
+    "id": "874",
+    "name": "Egg London"
+  },
+  {
+    "id": "174010",
+    "name": "Serpentine Galleries"
+  },
+  {
+    "id": "95943",
+    "name": "Rye Wax"
+  },
+  {
+    "id": "18616",
+    "name": "Aquum Bar And Restaurant"
+  },
+  {
+    "id": "122921",
+    "name": "Lion and Lamb"
+  },
+  {
+    "id": "237",
+    "name": "fabric"
+  },
+  {
+    "id": "112736",
+    "name": "Fire & Lightbox"
+  },
+  {
+    "id": "874",
+    "name": "Egg London"
+  },
+  {
+    "id": "123199",
+    "name": "Camden Assembly"
+  },
+  {
+    "id": "2587",
+    "name": "Corsica Studios"
+  },
+  {
+    "id": "95943",
+    "name": "Rye Wax"
+  },
+  {
+    "id": "141496",
+    "name": "Maxilla Socialclub"
+  },
+  {
+    "id": "133599",
+    "name": "Five Miles"
+  },
+  {
+    "id": "47278",
+    "name": "Piccadilly Institute"
+  },
+  {
+    "id": "135605",
+    "name": "Rio Cinema"
+  },
+  {
+    "id": "674",
+    "name": "Aquarium"
+  },
+  {
+    "id": "122921",
+    "name": "Lion and Lamb"
+  },
+  {
+    "id": "9187",
+    "name": "Dingwalls"
+  },
+  {
+    "id": "4552",
+    "name": "Queen Of Hoxton"
+  },
+  {
+    "id": "66817",
+    "name": "Boxpark"
+  },
+  {
+    "id": "133599",
+    "name": "Five Miles"
+  },
+  {
+    "id": "122921",
+    "name": "Lion and Lamb"
+  },
+  {
+    "id": "18616",
+    "name": "Aquum Bar And Restaurant"
+  },
+  {
+    "id": "137343",
+    "name": "La Cabina"
+  },
+  {
+    "id": "164494",
+    "name": "Favela London"
+  },
+  {
+    "id": "106730",
+    "name": "Phonox"
+  }
+]
