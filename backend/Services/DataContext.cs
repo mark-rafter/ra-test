@@ -29,5 +29,10 @@ namespace Backend.Services
 
             return cachedEventData;
         }
+
+        public async Task<IEnumerable<EventDto>> GetEventsWithDateRange(DateTime from, DateTime to)
+        {
+            return cachedEventData.Where(e => e.Date >= from && e.Date <= to);
+        }
     }
 }
