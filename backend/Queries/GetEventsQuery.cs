@@ -16,7 +16,8 @@ namespace Backend.Queries
       ToDate = toDate;
     }
 
-    public IEnumerable<EventDto> Resolve() {
+    public IEnumerable<EventDto> Resolve([Service] DataContext dataContext) {
+      return dataContext.GetEvents();
       return new List<EventDto> {
         new EventDto() {
             Id=1287430,
