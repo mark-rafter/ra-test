@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 using Backend.Dto;
 using Backend.Services;
@@ -14,14 +15,16 @@ namespace Backend.Queries
 
         public GetEventsQuery(DateTime fromDate, DateTime toDate)
         {
-            FromDate = fromDate;
-            ToDate = toDate;
+            FromDate = fromDate.ToLocalTime();
+            ToDate = toDate.ToLocalTime();
         }
 
         public async Task<IEnumerable<EventDto>> Resolve(DataContext dataContext)
         {
-            return await dataContext.GetEvents();
-            // return dataContext.GetEventsWithDateRange(FromDate, ToDate);
+            var events = await dataContext.GetEvents();
+            return events
+                .Where(e => e.Date >= FromDate)
+                .Where(e => e.Date <= ToDate);
         }
     }
 }
