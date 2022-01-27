@@ -10,32 +10,46 @@ namespace Backend.Services
 {
     public class DataContext
     {
-        readonly string eventsJsonPath;
+        readonly string dataPath;
 
         IEnumerable<EventDto> cachedEventData;
+        IEnumerable<VenueDto> cachedVenueData;
 
         public DataContext(IWebHostEnvironment env)
         {
-            eventsJsonPath = env.ContentRootPath
-                + Path.DirectorySeparatorChar
-                + "data"
-                + Path.DirectorySeparatorChar
-                + "events.json";
+            dataPath = env.ContentRootPath + Path.DirectorySeparatorChar + "data" + Path.DirectorySeparatorChar;
         }
 
         public async ValueTask<IEnumerable<EventDto>> GetEvents()
         {
             if (cachedEventData is null)
             {
-                using FileStream fs = File.OpenRead(eventsJsonPath);
-
-                var eventData = await JsonSerializer.DeserializeAsync<IEnumerable<EventDto>>(fs, new(JsonSerializerDefaults.Web))
-                    ?? throw new InvalidOperationException($"No events found in {eventsJsonPath}");
-
-                cachedEventData = eventData;
+                cachedEventData = await GetData<EventDto>("events.json");
             }
 
             return cachedEventData;
+        }
+
+        public async ValueTask<IEnumerable<VenueDto>> GetVenues()
+        {
+            if (cachedVenueData is null)
+            {
+                cachedVenueData = await GetData<VenueDto>("venues.json");
+            }
+
+            return cachedVenueData;
+        }
+
+        async ValueTask<IEnumerable<TDto>> GetData<TDto>(string filename)
+        {
+            var filePath = dataPath + filename;
+
+            using FileStream fs = File.OpenRead(filePath);
+
+            var data = await JsonSerializer.DeserializeAsync<IEnumerable<TDto>>(fs, new(JsonSerializerDefaults.Web))
+                ?? throw new InvalidOperationException($"No data found in {filePath}");
+
+            return data;
         }
     }
 }
