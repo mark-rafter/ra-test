@@ -4,7 +4,19 @@ import {
   gql
 } from "@apollo/client";
 import { Event } from './Event';
-import { DateRangePicker } from './DateRangePicker';
+import DateRangePicker from './DateRangePicker';
+
+const EVENTS_SEPT2019 = gql`
+  query GetEvents {
+    events(dateFrom: "2019-10-01", dateTo: "2019-10-01") {
+      id
+      title
+      date
+      startTime
+      endTime
+    }
+  }
+`;
 
 const EVENTS = gql`
   query GetEvents($dateFrom: DateTime!, $dateTo: DateTime!) {
@@ -19,9 +31,12 @@ const EVENTS = gql`
 `;
 
 function EventList() {
-  const { loading, error, data } = useQuery(EVENTS, {
-    variables: { dateFrom, dateTo },
-  });
+  // const dateFrom = "2019-10-01";
+  // const dateTo = "2019-10-01";
+  // const { loading, error, data } = useQuery(EVENTS, {
+  //   variables: { dateFrom, dateTo },
+  // });
+  const { loading, error, data } = useQuery(EVENTS_SEPT2019);
   if (loading) return <p>Loading...</p>;
   if (error) return <p>Error :(</p>;
 
