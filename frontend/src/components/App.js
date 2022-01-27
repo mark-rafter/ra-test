@@ -8,21 +8,10 @@ import { useState } from "react";
 import DayPicker, { DateUtils } from "react-day-picker";
 import "react-day-picker/lib/style.css";
 
-const EVENTS_SEPT2019 = gql`
-  query GetEvents {
-    events(dateFrom: "2019-10-01", dateTo: "2019-10-01") {
-      id
-      title
-      date
-      startTime
-      endTime
-    }
-  }
-`;
 
 const EVENTS = gql`
-  query GetEvents($dateFrom: DateTime!, $dateTo: DateTime!) {
-    events(dateFrom: $dateFrom, dateTo: $dateTo) {
+  query GetEvents($from: DateTime!, $to: DateTime!) {
+    events(dateFrom: $from, dateTo: $to) {
       id
       title
       date
@@ -32,13 +21,10 @@ const EVENTS = gql`
   }
 `;
 
-function EventList() {
-  // const dateFrom = "2019-10-01";
-  // const dateTo = "2019-10-01";
-  // const { loading, error, data } = useQuery(EVENTS, {
-  //   variables: { dateFrom, dateTo },
-  // });
-  const { loading, error, data } = useQuery(EVENTS_SEPT2019);
+function EventList({ from, to }) {
+  const { loading, error, data } = useQuery(EVENTS, {
+    variables: { from, to },
+  });
   if (loading) return <p>Loading...</p>;
   if (error) return <p>Error :(</p>;
 
@@ -84,13 +70,14 @@ function App() {
         </p>
         <DayPicker
           className="Selectable"
+          month={new Date(2019, 9)}
           numberOfMonths={1}
           selectedDays={[from, { from, to }]}
           modifiers={modifiers}
           onDayClick={handleDayClick}
         />
       </div>
-      {from && to && <EventList />}
+      {from && to && <EventList from={from} to={to} />}
     </div>
   );
 }

@@ -15,8 +15,8 @@ namespace Backend.Queries
 
         public GetEventsQuery(DateTime fromDate, DateTime toDate)
         {
-            FromDate = fromDate.ToLocalTime();
-            ToDate = toDate.ToLocalTime();
+            FromDate = fromDate.Date;
+            ToDate = toDate.Date;
         }
 
         public async Task<IEnumerable<EventDto>> Resolve(DataContext dataContext)
