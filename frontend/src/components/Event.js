@@ -1,4 +1,4 @@
-export function Event(id, title, date, startTime, endTime) {
+export default function Event(id, title, date, startTime, endTime) {
     return <li key={id}>
         <p>{new Date(date).toLocaleDateString()}</p>
         <p>{title}</p>
