@@ -4,6 +4,7 @@ import {
   gql
 } from "@apollo/client";
 import { Event } from './Event';
+import { DateRangePicker } from './DateRangePicker';
 
 const EVENTS_JANUARY2020 = gql`
   query GetEvents {
@@ -17,7 +18,7 @@ const EVENTS_JANUARY2020 = gql`
   }
 `;
 
-function Events() {
+function EventList() {
   const { loading, error, data } = useQuery(EVENTS_JANUARY2020);
   if (loading) return <p>Loading...</p>;
   if (error) return <p>Error :(</p>;
@@ -31,7 +32,9 @@ function Events() {
 function App() {
   return (
     <div className="App">
-      <Events />
+      <h1>Events</h1>
+      <DateRangePicker />
+      <EventList />
     </div>
   );
 }
