@@ -6,9 +6,9 @@ import {
 import { Event } from './Event';
 import { DateRangePicker } from './DateRangePicker';
 
-const EVENTS_JANUARY2020 = gql`
-  query GetEvents {
-    events(dateFrom:"2020-01-01" dateTo:"2020-01-02") {
+const EVENTS = gql`
+  query GetEvents($dateFrom: DateTime!, $dateTo: DateTime!) {
+    events(dateFrom: $dateFrom, dateTo: $dateTo) {
       id
       title
       date
@@ -19,7 +19,9 @@ const EVENTS_JANUARY2020 = gql`
 `;
 
 function EventList() {
-  const { loading, error, data } = useQuery(EVENTS_JANUARY2020);
+  const { loading, error, data } = useQuery(EVENTS, {
+    variables: { dateFrom, dateTo },
+  });
   if (loading) return <p>Loading...</p>;
   if (error) return <p>Error :(</p>;
 
