@@ -1,7 +1,10 @@
+using System.Threading.Tasks;
+using Backend.Services;
+
 namespace Backend.Queries
 {
     public interface IQuery<TResponse>
     {
-        TResponse Resolve();
+        Task<TResponse> Resolve(DataContext dataContext);
     }
 }

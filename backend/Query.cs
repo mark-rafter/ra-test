@@ -1,20 +1,23 @@
 using System;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 using Backend.Dto;
 using Backend.Queries;
+using Backend.Services;
+using HotChocolate;
 
 namespace Backend
 {
-  public class Query
-  {
-    public IEnumerable<EventDto> Events(DateTime dateFrom, DateTime dateTo)
+    public class Query
     {
-      return new GetEventsQuery(dateFrom, dateTo).Resolve();
-    }
+        public async Task<IEnumerable<EventDto>> Events(DateTime dateFrom, DateTime dateTo, [Service] DataContext dataContext)
+        {
+            return await new GetEventsQuery(dateFrom, dateTo).Resolve(dataContext);
+        }
 
-    public EventDto Event(int id)
-    {
-      return new GetEventByIdQuery(id).Resolve();
+        public async Task<EventDto> Event(int id, [Service] DataContext dataContext)
+        {
+            return await new GetEventByIdQuery(id).Resolve(dataContext);
+        }
     }
-  }
 }
