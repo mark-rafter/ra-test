@@ -14,14 +14,29 @@ namespace Backend.Services
 
         IEnumerable<EventDto> cachedEventData;
         IEnumerable<VenueDto> cachedVenueData;
+        IEnumerable<PromoterDto> cachedPromoterData;
+        IEnumerable<ArtistDto> cachedArtistData;
 
         public DataContext(IWebHostEnvironment env)
         {
             dataPath = env.ContentRootPath + Path.DirectorySeparatorChar + "data" + Path.DirectorySeparatorChar;
         }
 
+        public async ValueTask<IEnumerable<ArtistDto>> GetArtists()
+        {
+            if (cachedArtistData is null)
+            {
+                cachedArtistData = await GetData<ArtistDto>("artists.json");
+            }
+
+            return cachedArtistData;
+        }
+
         public async ValueTask<IEnumerable<EventDto>> GetEvents()
         {
+            // todo:
+            //cachedEventData ??= await GetData<EventDto>("events.json");
+
             if (cachedEventData is null)
             {
                 cachedEventData = await GetData<EventDto>("events.json");
@@ -40,7 +55,17 @@ namespace Backend.Services
             return cachedVenueData;
         }
 
-        async ValueTask<IEnumerable<TDto>> GetData<TDto>(string filename)
+        public async ValueTask<IEnumerable<PromoterDto>> GetPromoters()
+        {
+            if (cachedPromoterData is null)
+            {
+                cachedPromoterData = await GetData<PromoterDto>("promoters.json");
+            }
+
+            return cachedPromoterData;
+        }
+
+        async Task<IEnumerable<TDto>> GetData<TDto>(string filename)
         {
             var filePath = dataPath + filename;
 
