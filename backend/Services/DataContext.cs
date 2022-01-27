@@ -19,49 +19,33 @@ namespace Backend.Services
 
         public DataContext(IWebHostEnvironment env)
         {
-            dataPath = env.ContentRootPath + Path.DirectorySeparatorChar + "data" + Path.DirectorySeparatorChar;
+            dataPath = env.ContentRootPath
+                + Path.DirectorySeparatorChar
+                + "data"
+                + Path.DirectorySeparatorChar;
         }
 
         public async ValueTask<IEnumerable<ArtistDto>> GetArtists()
         {
-            if (cachedArtistData is null)
-            {
-                cachedArtistData = await GetData<ArtistDto>("artists.json");
-            }
-
+            cachedArtistData ??= await GetData<ArtistDto>("artists.json");
             return cachedArtistData;
         }
 
         public async ValueTask<IEnumerable<EventDto>> GetEvents()
         {
-            // todo:
-            //cachedEventData ??= await GetData<EventDto>("events.json");
-
-            if (cachedEventData is null)
-            {
-                cachedEventData = await GetData<EventDto>("events.json");
-            }
-
+            cachedEventData ??= await GetData<EventDto>("events.json");
             return cachedEventData;
         }
 
         public async ValueTask<IEnumerable<VenueDto>> GetVenues()
         {
-            if (cachedVenueData is null)
-            {
-                cachedVenueData = await GetData<VenueDto>("venues.json");
-            }
-
+            cachedVenueData ??= await GetData<VenueDto>("venues.json");
             return cachedVenueData;
         }
 
         public async ValueTask<IEnumerable<PromoterDto>> GetPromoters()
         {
-            if (cachedPromoterData is null)
-            {
-                cachedPromoterData = await GetData<PromoterDto>("promoters.json");
-            }
-
+            cachedPromoterData ??= await GetData<PromoterDto>("promoters.json");
             return cachedPromoterData;
         }
 
