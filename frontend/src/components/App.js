@@ -4,7 +4,9 @@ import {
   gql
 } from "@apollo/client";
 import { Event } from './Event';
-import DateRangePicker from './DateRangePicker';
+import { useState } from "react";
+import DayPicker, { DateUtils } from "react-day-picker";
+import "react-day-picker/lib/style.css";
 
 const EVENTS_SEPT2019 = gql`
   query GetEvents {
@@ -47,11 +49,48 @@ function EventList() {
 }
 
 function App() {
+  const [from, setFrom] = useState(undefined);
+  const [to, setTo] = useState(undefined);
+
+  const modifiers = { start: from, end: to };
+
+  function handleDayClick(day) {
+    const range = DateUtils.addDayToRange(day, { from, to });
+    setFrom(range.from);
+    setTo(range.to);
+  }
+
+  function handleResetClick() {
+    setFrom(undefined);
+    setTo(undefined);
+  }
+
   return (
     <div className="App">
       <h1>Events</h1>
-      <DateRangePicker />
-      <EventList />
+      <div className="RangeExample">
+        <p>
+          {!from && !to && "Please select the first day."}
+          {from && !to && "Please select the last day."}
+          {from &&
+            to &&
+            `Selected from ${from.toLocaleDateString()} to
+                ${to.toLocaleDateString()}`}{" "}
+          {from && to && (
+            <button className="link" onClick={handleResetClick}>
+              Reset
+            </button>
+          )}
+        </p>
+        <DayPicker
+          className="Selectable"
+          numberOfMonths={1}
+          selectedDays={[from, { from, to }]}
+          modifiers={modifiers}
+          onDayClick={handleDayClick}
+        />
+      </div>
+      {from && to && <EventList />}
     </div>
   );
 }
