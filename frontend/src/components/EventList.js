@@ -1,4 +1,5 @@
 import { useQuery, gql } from "@apollo/client";
+import './EventList.css';
 
 const EVENTS = gql`
   query GetEvents($from: DateTime!, $to: DateTime!) {
@@ -10,9 +11,11 @@ const EVENTS = gql`
         name
       }
       artists {
+        id
         name
       }
       promoters { 
+        id
         name
       }
       startTime
@@ -22,26 +25,35 @@ const EVENTS = gql`
 `;
 
 function Event({ id, title, date, venue, artists, promoters, startTime, endTime }) {
-  return <li key={id}>
+  function formatTime(time) {
+    return new Date(time).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
+  }
+
+  return <article>
     <p>{new Date(date).toLocaleDateString()}</p>
-    <p>{venue.name}</p>
-    <p>{title}</p>
-    <p>{new Date(startTime).toLocaleTimeString()} &mdash; {new Date(endTime).toLocaleTimeString()}</p>
-    <p>Artists:
-      <ul>
-        {artists.map((a) => (
-          <li>{a.name}</li>
-        ))}
-      </ul>
-    </p>
-    <p>Promoters:
-      <ul>
-        {promoters.map((p) => (
-          <li>{p.name}</li>
-        ))}
-      </ul>
-    </p>
-  </li>;
+    <p>{formatTime(startTime)} &mdash; {formatTime(endTime)}</p>
+    <p>{title} @ {venue.name}</p>
+    {artists?.length > 0 &&
+      <div>Artists:
+        <ul>
+          {artists.map((a) => (
+            <li key={a.id}>
+              {a.name}
+            </li>
+          ))}
+        </ul>
+      </div>}
+    {promoters?.length > 0 &&
+      <div>Promoters:
+        <ul>
+          {promoters.map((p) => (
+            <li key={p.id}>
+              {p.name}
+            </li>
+          ))}
+        </ul>
+      </div>}
+  </article>;
 }
 
 export default function EventList({ from, to }) {
@@ -52,8 +64,8 @@ export default function EventList({ from, to }) {
   if (loading) return <p>Loading...</p>;
   if (error) return <p>Error :(</p>;
 
-  return <ul>
-    {data.events.map((e) => (
-      Event(e)
-    ))}</ul>;
+  return <section className="flex-container">
+    {data.events.map((e) =>
+      <Event key={e.id} {...e} />
+    )}</section>;
 }
